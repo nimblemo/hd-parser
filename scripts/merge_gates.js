@@ -10,7 +10,7 @@ const fs = require('fs');
 const path = require('path');
 
 const PROFILES_DIR = path.join(__dirname, '../data/profiles');
-const OUTPUT_FILE = path.join(__dirname, '../data/gates_database.json');
+const OUTPUT_FILE = path.join(__dirname, '../data/gates_database_ru.json');
 const GATES_TO_CENTERS_FILE = path.join(__dirname, '../data/gates_to_centers.json');
 const CIRCUITS_FILE = path.join(__dirname, '../data/circuits.json');
 

@@ -1,0 +1,2031 @@
+{
+  "gates": {
+    "1": {
+      "name": "Gate of Ambition",
+      "description": "You are a creative person and are able to bring something new into the world when you are least concerned about how to realize your creative potential. ",
+      "lines": {
+        "1": "You cannot predict how or when your creativity will express itself. ",
+        "2": "You must be creative at the right moment and without the participation of other people. ",
+        "3": "You are capable of creatively approaching everything in life, regardless of external pressure and interference. ",
+        "4": "You are well aware of the value of your ability to bring something new into the world. ",
+        "5": "People perceive you as a creative person and expect that you will certainly realize your potential. ",
+        "6": "You are not always able to objectively assess your creative power. "
+      },
+      "crosses": [
+        "right_angle_cross_of_the_sphinx",
+        "juxtaposition_cross_of_self_expression",
+        "left_angle_cross_of_defiance"
+      ],
+      "business": "Specific application of incoming resources here and now based on a common vision.",
+      "center": "g",
+      "across": 8,
+      "circuit": "individual",
+      "subCircuit": "knowing"
+    },
+    "2": {
+      "name": "Gate of Rationalization",
+      "description": "You have the ability to coordinate and guide others, helping them gain clarity about where to go and what to do, even when you don't consciously want to. ",
+      "lines": {
+        "1": "You avoid ugliness and disharmony in life. ",
+        "2": "People around you think that you clearly understand what you want from life. ",
+        "3": "You try different methods and paths to realize your desires. ",
+        "4": "You are careful, insightful and do not talk about your intentions and plans. ",
+        "5": "People around you think that you clearly understand what you want from life and know how to resolve difficulties that arise. ",
+        "6": "It may seem that you are not striving for anything. "
+      },
+      "crosses": [
+        "right_angle_cross_of_the_sphinx",
+        "left_angle_cross_of_defiance"
+      ],
+      "business": "Understanding the business as a whole.",
+      "center": "g",
+      "across": 14,
+      "circuit": "individual",
+      "subCircuit": "knowing"
+    },
+    "3": {
+      "name": "Gate of Growth",
+      "description": "You may be impatient and strive to finish what you start as quickly as possible, or expect your actions to immediately bring results. ",
+      "lines": {
+        "1": "You feel confused. ",
+        "2": "You don't know how to build your life, but it's natural for you. ",
+        "3": "Your life is filled with trial and error, the results of which are visible only after the completion of a specific life experience. ",
+        "4": "You seek and find people under whose guidance your activities gain clarity. ",
+        "5": "People perceive you as confused and regularly try to take advantage of you by telling you what to do. ",
+        "6": "You calmly accept the confusion and confusion of your life. "
+      },
+      "crosses": [
+        "right_angle_cross_of_laws",
+        "left_angle_cross_of_wishes"
+      ],
+      "sexuality": "You are open to sex, but you have some kind of uncertainty: how it will be, what you need, what you want... You need a partner who brings this confidence: he knows how, he knows what, he doesn’t fuss. ",
+      "center": "sacred",
+      "across": 60,
+      "circuit": "individual",
+      "subCircuit": "knowing"
+    },
+    "4": {
+      "name": "Gate of Formulation",
+      "description": "You question what looks unconvincing and try to sort everything out. ",
+      "lines": {
+        "1": "You like to find answers to questions that concern you. ",
+        "2": "You tend to share your opinions and answers with people at the wrong time and place. ",
+        "3": "You easily find answers to questions that concern you and openly share them with other people, relieving yourself of any responsibility. ",
+        "4": "You tend to act as if you have all the answers. ",
+        "5": "You are able to skillfully offer solutions and answers in a way that gets other people involved and involved in the process. ",
+        "6": "You are not interested in finding mutual understanding with other people. "
+      },
+      "crosses": [
+        "right_angle_cross_of_explanation",
+        "left_angle_cross_of_revolution"
+      ],
+      "fear": "You are afraid of chaos and disorder. ",
+      "center": "ajna",
+      "across": 63,
+      "circuit": "collective",
+      "subCircuit": "logic"
+    },
+    "5": {
+      "name": "Fixed Rhythm Gate",
+      "description": "There are certain patterns and habits in your life, following which you easily move through life - catch the “flow”. ",
+      "lines": {
+        "1": "If you rest during the allotted time, then there is little that can interrupt this ritual. ",
+        "2": "By your behavior you demonstrate that you have your own calm and stable rhythm of life. ",
+        "3": "You often feel like “something is wrong.” ",
+        "4": "It is vital for you to find, create and stick to your natural rhythm in life. ",
+        "5": "People perceive you as a calm person and expect you to behave accordingly.",
+        "6": "Your life is filled with surprises. "
+      },
+      "crosses": [
+        "right_angle_cross_of_consciousness",
+        "left_angle_cross_of_separation"
+      ],
+      "sexuality": "A certain ritual, your own vision of sex, details are important to you. ",
+      "business": "This may include a dress code and respectful attitude towards team members.",
+      "center": "sacred",
+      "across": 15,
+      "circuit": "collective",
+      "subCircuit": "logic"
+    },
+    "6": {
+      "name": "Friction Gate",
+      "description": "When interacting with people, you involuntarily “warm up” emotions and look for opportunities for close relationships. ",
+      "lines": {
+        "1": "It is not common for you to take the initiative to establish close relationships. ",
+        "2": "You are characterized by fleeting relationships. ",
+        "3": "Your relationships with people often go beyond the norms accepted by others. ",
+        "4": "You know how to be adamant and strive to extend your emotional state to other people. ",
+        "5": "You know exactly with whom communication is favorable and promising for you, and with whom it is not. ",
+        "6": "You are concerned not so much about the future with a specific person, but about the idea of ​​how promising this relationship is, how fruitful it is, and whether there is any meaning in it at all."
+      },
+      "crosses": [
+        "right_angle_cross_of_eden",
+        "juxtaposition_cross_of_conflict",
+        "left_angle_cross_of_the_plane"
+      ],
+      "fear": "You are afraid to admit to yourself who you really are. ",
+      "sexuality": "You need freedom in a relationship. ",
+      "center": "solar_plexus",
+      "across": 59,
+      "circuit": "tribal",
+      "subCircuit": "defense"
+    },
+    "7": {
+      "name": "Gate of Continuity",
+      "description": "You are a leader who knows where to direct the forces of the team and society in order to achieve certain goals. ",
+      "lines": {
+        "1": "When making decisions and voicing your opinions, you act authoritarian and despotic. ",
+        "2": "You follow your own path, often unaware that other people see you as a potential leader. ",
+        "3": "You do not strive to become part of a team or an established system. ",
+        "4": "When the time is right, you are ready to take on leadership responsibilities, but there always comes a time when the people who followed you stop doing so. ",
+        "5": "For those around you, you are a leader who can resolve any crisis situation. ",
+        "6": "You are an example of justice in its highest sense. "
+      },
+      "crosses": [
+        "right_angle_cross_of_the_sphinx",
+        "left_angle_cross_of_masks"
+      ],
+      "business": "Development of plans, budgets, projects. ",
+      "center": "g",
+      "across": 31,
+      "circuit": "collective",
+      "subCircuit": "logic"
+    },
+    "8": {
+      "name": "Gate of Assistance",
+      "description": "You know how to cooperate with people while maintaining your authentic and unique personality. ",
+      "lines": {
+        "1": "You strive to share your knowledge with other people for their benefit. ",
+        "2": "You demonstrate to others your willingness to selflessly help them in their affairs. ",
+        "3": "To become part of a team, you strive to behave in a certain way, try on different “masks”. ",
+        "4": "You see and recognize the contributions of others, especially those who you feel can serve as role models for you and others. ",
+        "5": "People come to you thinking that you can unselfishly help them find a solution. ",
+        "6": "You act and contribute to the common cause at the most appropriate moment for this. "
+      },
+      "crosses": [
+        "right_angle_cross_of_contagion",
+        "left_angle_cross_of_uncertainty"
+      ],
+      "business": "Marketing, advertising, presentations, public image.",
+      "center": "throat",
+      "across": 1,
+      "circuit": "individual",
+      "subCircuit": "knowing"
+    },
+    "9": {
+      "name": "Fixed Rhythm Gate",
+      "description": "You are able to focus on one thing for a long time and identify details that are relevant to it. ",
+      "lines": {
+        "1": "You take a responsible approach to solving problems. ",
+        "2": "By your behavior, you make it clear to others that you can concentrate on solving the problem. ",
+        "3": "When you focus on something, you tend to make unpredictable mistakes that lead to unexpected discoveries. ",
+        "4": "When you focus on something, you give it your all. ",
+        "5": "People believe that you will definitely achieve results in whatever your focus, attention and concentration are directed towards. ",
+        "6": "You do not seek to find solutions in the process or matter on which your focus is directed. "
+      },
+      "crosses": [
+        "right_angle_cross_of_planning",
+        "left_angle_cross_of_identification"
+      ],
+      "sexuality": "Certain details in sex are important to you. ",
+      "center": "sacred",
+      "across": 52,
+      "circuit": "collective",
+      "subCircuit": "logic"
+    },
+    "10": {
+      "name": "Gate of Own Behavior",
+      "description": "You have a special character and your own view on norms of behavior. ",
+      "lines": {
+        "1": "You calmly accept your position in the hierarchy of society or in a specific situation. ",
+        "2": "You tend to seek solitude and isolation in situations where other people expect you to behave in a certain way. ",
+        "3": "You are self-sufficient in your behavior and have little regard for the opinions of others. ",
+        "4": "You are constant in your behavior and respect the norms of behavior of your environment until the right moment comes for self-expression or change in habitual behavior. ",
+        "5": "No one remains indifferent to your behavior. ",
+        "6": "You are shy and often feel awkward around other people. "
+      },
+      "crosses": [
+        "right_angle_cross_of_vessel_of_love",
+        "left_angle_cross_of_prevention"
+      ],
+      "love": "Self-love is found when other people love you. ",
+      "center": "g",
+      "across": 57,
+      "circuit": "individual",
+      "subCircuit": "integration"
+    },
+    "11": {
+      "name": "Sensation Recognition Gate",
+      "description": "Thanks to your imagination, you are rich in ideas. ",
+      "lines": {
+        "1": "Your ideas are almost always relevant. ",
+        "2": "You are eager to share your ideas with other people and regularly hear that they are irrelevant or pointless. ",
+        "3": "Your ideas come and go. ",
+        "4": "You tend to get fixated on one idea. ",
+        "5": "You tend to ponder philosophical and humanistic ideas, and you strive to disinterestedly share the results of your thoughts. ",
+        "6": "You feel comfortable sharing your ideas and don't worry about how they will be received. "
+      },
+      "crosses": [
+        "right_angle_cross_of_eden",
+        "juxtaposition_cross_of_ideas",
+        "left_angle_cross_of_education"
+      ],
+      "fear": "You are afraid that your flow of new ideas regarding your field of activity and life in general will dry up. ",
+      "center": "ajna",
+      "across": 56,
+      "circuit": "collective",
+      "subCircuit": "abstract"
+    },
+    "12": {
+      "name": "Gate of Caution",
+      "description": "It is important for you that others understand you. ",
+      "lines": {
+        "1": "Waiting and contemplation are not an empty phrase for you. ",
+        "2": "You are secretive and reserved and want people not to bother you. ",
+        "3": "You can be very emotional and your strong emotions often lead to confusion in relationships with other people. ",
+        "4": "You are sensitive to other people's moods and know when to voice and express your thoughts to influence them. ",
+        "5": "People think that you are a very sociable person. ",
+        "6": "You are always thinking about what you should say and to whom. "
+      },
+      "crosses": [
+        "right_angle_cross_of_eden",
+        "left_angle_cross_of_education"
+      ],
+      "sexuality": "You do not like to expose yourself; rather, you always hide in company. ",
+      "center": "throat",
+      "across": 22,
+      "circuit": "individual",
+      "subCircuit": "knowing"
+    },
+    "13": {
+      "name": "Listener's Gate",
+      "description": "You know how to listen. ",
+      "lines": {
+        "1": "You are an attentive listener and you tend to empathize with those who come to you with their stories and share their experiences. ",
+        "2": "Throughout your life, you hear so many different personal stories from people who think they can share their experiences with you. ",
+        "3": "You tend to make mistakes about those you listen to. ",
+        "4": "You tend to listen to others, which can be completely draining. ",
+        "5": "People are drawn to you to have the opportunity to speak out and share their revelations and experiences. ",
+        "6": "You are full of optimism and never lose faith that there are truly worthy things or people in life, or that tomorrow will be better than today. "
+      },
+      "crosses": [
+        "right_angle_cross_of_the_sphinx",
+        "left_angle_cross_of_masks"
+      ],
+      "business": "Statistics, accounting, reporting.",
+      "center": "g",
+      "across": 33,
+      "circuit": "collective",
+      "subCircuit": "abstract"
+    },
+    "14": {
+      "name": "Gate of Acceptance",
+      "description": "If what you focus your energy and time on gives you pleasure, then everything comes easy and leads to results, success and wealth. ",
+      "lines": {
+        "1": "Money does not play a key role in your value system. ",
+        "2": "You are convinced that professionalism and mastery in anything can lead to success. ",
+        "3": "You invest your energy, talents, and resources in ways that you believe benefit others and society.",
+        "4": "Throughout your life, you are focused on one aspect or topic to which you devote yourself completely. ",
+        "5": "Other people expect you to show strength and energy to accomplish what you do. ",
+        "6": "You know that you have great power and are able to achieve results in any matter. "
+      },
+      "crosses": [
+        "right_angle_cross_of_contagion",
+        "left_angle_cross_of_uncertainty"
+      ],
+      "sexuality": "Your sexual energy moves in a sinusoid: it rises and falls. ",
+      "business": "Resources, money, technology, copyrights.",
+      "center": "sacred",
+      "across": 2,
+      "circuit": "individual",
+      "subCircuit": "knowing"
+    },
+    "15": {
+      "name": "Gate of Sexuality",
+      "description": "You are able to accept extremes of behavior, both your own and those of others. ",
+      "lines": {
+        "1": "You are carried away with your life and do not care about somehow controlling your behavior. ",
+        "2": "You behave as you see fit and do not consider the opinions of others. ",
+        "3": "You tend to limit yourself in your natural behavior. ",
+        "4": "You tend to get hung up on your own characteristics and extremes of behavior. ",
+        "5": "People think that you are a person who is capable of extremes and extreme behavior. ",
+        "6": "Your life is filled with defiant behavior and extremes. "
+      },
+      "crosses": [
+        "right_angle_cross_of_vessel_of_love",
+        "left_angle_cross_of_prevention"
+      ],
+      "love": "This is love for humanity in general. ",
+      "business": "There is a feeling that the group has gathered for a reason, but forms a close-knit team, giving a feeling of reliability.",
+      "center": "g",
+      "across": 5,
+      "circuit": "collective",
+      "subCircuit": "logic"
+    },
+    "16": {
+      "name": "Skill Gate",
+      "description": "You are talented and eager to use your skills. ",
+      "lines": {
+        "1": "You are confident that you have mastery in some matter. ",
+        "2": "You tend to critically evaluate the talents of other people in the areas in which you are interested. ",
+        "3": "You have a skill that you can use when the moment is right. ",
+        "4": "You sensitively recognize the potential of people and know how to unite with people in order to jointly realize both your talent and the abilities of others. ",
+        "5": "People think that you have talents that can help them realize themselves. ",
+        "6": "You are selective in what you dedicate yourself and your life to. "
+      },
+      "crosses": [
+        "right_angle_cross_of_planning",
+        "left_angle_cross_of_identification"
+      ],
+      "center": "throat",
+      "across": 48,
+      "circuit": "collective",
+      "subCircuit": "logic"
+    },
+    "17": {
+      "name": "Gate of Change",
+      "description": "You always have your own opinion and at the same time you do not lose interest and respect for the opinions of others. ",
+      "lines": {
+        "1": "You are ready to challenge any opinion to test its viability. ",
+        "2": "You are ready to openly share your opinion. ",
+        "3": "It is important for you to justify this or that opinion. ",
+        "4": "You are able to determine what another person should do. ",
+        "5": "You understand that the world is a large hierarchical system and that for personal and general development it is necessary to cooperate with each other, and that every opinion has the right to life.",
+        "6": "It is important for you to have listeners - people who need you to guide and organize them. "
+      },
+      "crosses": [
+        "right_angle_cross_of_service",
+        "juxtaposition_cross_of_opinions",
+        "left_angle_cross_of_upheaval"
+      ],
+      "fear": "You are afraid that your opinion will be challenged, so you do not express it. ",
+      "center": "ajna",
+      "across": 62,
+      "circuit": "collective",
+      "subCircuit": "logic"
+    },
+    "18": {
+      "name": "Fixed Rhythm Gate",
+      "description": "You notice something that can be improved and are willing to challenge it. ",
+      "lines": {
+        "1": "You are conservative and have difficulty accepting changing circumstances, remaining true to traditional views. ",
+        "2": "You tend to understand that there are things that cannot be fixed, and you do not waste energy on them.",
+        "3": "You can be very picky about various little things and always strive to correct everything that you think needs to be improved. ",
+        "4": "You notice incompetence and what needs to be corrected. ",
+        "5": "You know that many problems cannot be solved alone. ",
+        "6": "It seems to you that everything around you is perfect, everything is in its place. "
+      },
+      "crosses": [
+        "right_angle_cross_of_service",
+        "left_angle_cross_of_upheaval"
+      ],
+      "fear": "You are afraid of criticism and condemnation, or you constantly judge yourself and others. ",
+      "center": "splenic",
+      "across": 58,
+      "circuit": "collective",
+      "subCircuit": "logic"
+    },
+    "19": {
+      "name": "Gate of Contraction",
+      "description": "You are aware of your needs and feel the needs of other people. ",
+      "lines": {
+        "1": "You tend to establish close relationships with people where everyone is dependent on the other. ",
+        "2": "You are open to serving others, giving your all as long as your contributions are valued and you are adequately rewarded.",
+        "3": "When entering into personal or collective relationships, you give yourself completely to this process. ",
+        "4": "You are the driving force behind any relationship and process. ",
+        "5": "People expect that you can sacrifice yourself for the common cause at any time. ",
+        "6": "You avoid close connections with most people. "
+      },
+      "crosses": [
+        "right_angle_cross_of_the_four_ways",
+        "left_angle_cross_of_refinement"
+      ],
+      "sexuality": "You can flirt. ",
+      "center": "root",
+      "across": 49,
+      "circuit": "tribal",
+      "subCircuit": "ego"
+    },
+    "20": {
+      "name": "Gate of Solitude",
+      "description": "You tend to assess the situation and act in the present moment, regardless of past or future experiences. ",
+      "lines": {
+        "1": "You tend to accept things as they appear at first glance. ",
+        "2": "You notice the details of what is happening, but you never see the whole picture. ",
+        "3": "Every moment of your life is conscious: you understand yourself, your thoughts and give an account of your actions. ",
+        "4": "You like to communicate with people who understand you and accept your reasons and arguments. ",
+        "5": "You are a realist and know that life consists of both beautiful and ugly things. ",
+        "6": "You are deeply immersed in your individual life process. "
+      },
+      "crosses": [
+        "right_angle_cross_of_the_sleeping_phoenix",
+        "left_angle_cross_of_duality"
+      ],
+      "center": "throat",
+      "across": 10,
+      "circuit": "individual",
+      "subCircuit": "integration"
+    },
+    "21": {
+      "name": "Provocateur's Gate",
+      "description": "You tend to control things that affect your success, security, and personal space. ",
+      "lines": {
+        "1": "When you control people or processes, you do it intelligently, without using force. ",
+        "2": "If someone interferes with your life process, tries to control you or prevents you from controlling something, then you react sharply and from a position of strength.",
+        "3": "You can't stand it when someone controls you, controls you. ",
+        "4": "Before you take on the responsibility of controlling or managing anything or anyone, you ask yourself, “How will I exercise control?” ",
+        "5": "People see that you are objective and are willing to trust you with control over situations or processes. ",
+        "6": "More often than not, you tend to avoid responsibility in what you do. "
+      },
+      "crosses": [
+        "right_angle_cross_of_tension",
+        "left_angle_cross_of_endeavor"
+      ],
+      "center": "heart",
+      "across": 45,
+      "circuit": "tribal",
+      "subCircuit": "ego"
+    },
+    "22": {
+      "name": "Gate of Openness",
+      "description": "You have a changeable mood and it directly affects your environment. ",
+      "lines": {
+        "1": "You tend to be in a subordinate position. ",
+        "2": "You demonstrate commitment to a certain style in clothing, behavior and life. ",
+        "3": "You are very natural in the way you experience and express your emotions. ",
+        "4": "You are sociable and concerned with your behavior. ",
+        "5": "Your actions and behavior are highly dependent on your mood. ",
+        "6": "You set the mood when communicating with people. "
+      },
+      "crosses": [
+        "right_angle_cross_of_governance",
+        "juxtaposition_cross_of_grace",
+        "left_angle_cross_of_informing"
+      ],
+      "fear": "You are afraid that you will not be heard by others. ",
+      "sexuality": "Auditory and vibrational aspects are very important to you: music, sound, tone, timbre of the voice. ",
+      "center": "solar_plexus",
+      "across": 12,
+      "circuit": "individual",
+      "subCircuit": "knowing"
+    },
+    "23": {
+      "name": "Stimulation Gate",
+      "description": "You strive to demonstrate to people that you have some knowledge or not. ",
+      "lines": {
+        "1": "You prefer not to explain the sources of your knowledge and understanding of something. ",
+        "2": "By your behavior you demonstrate that you know something on the topic under discussion, while in fact you may not have this knowledge.",
+        "3": "You strive to express yourself and your knowledge. ",
+        "4": "You may find it difficult to express your knowledge, thoughts and ideas. ",
+        "5": "People expect you to share your knowledge and special understanding of the issue and do it in “their” language. ",
+        "6": "You know that everything in the world is interconnected. "
+      },
+      "crosses": [
+        "right_angle_cross_of_explanation",
+        "juxtaposition_cross_of_assimilation",
+        "left_angle_cross_of_dedication"
+      ],
+      "center": "throat",
+      "across": 43,
+      "circuit": "individual",
+      "subCircuit": "knowing"
+    },
+    "24": {
+      "name": "Gate of Rationalization",
+      "description": "You return to past experiences again and again in order to rationalize and understand them. ",
+      "lines": {
+        "1": "To gain clarity on an exciting issue, you need solitude and time to think about something completely unrelated. ",
+        "2": "If your vision and understanding of something inspires you, then you will not clarify what this or that knowledge is based on, what its rationale is and why it works.",
+        "3": "You are not limited to one area of ​​knowledge and interests. ",
+        "4": "You avoid any influence from other people. ",
+        "5": "You may change your point of view on an issue about which you have learned something new. ",
+        "6": "You don't have to worry about missed opportunities or that you didn't understand something. "
+      },
+      "crosses": [
+        "right_angle_cross_of_the_four_ways",
+        "left_angle_cross_of_incarnation"
+      ],
+      "fear": "Constant thoughts and inner fear that you will not find answers to your internal important questions, you will not understand what truth means. ",
+      "center": "ajna",
+      "across": 61,
+      "circuit": "individual",
+      "subCircuit": "knowing"
+    },
+    "25": {
+      "name": "Gate of the Spirit of the Self",
+      "description": "You have a childlike innocence, a capacity for wonder, and a love for life. ",
+      "lines": {
+        "1": "You tend to act unselfishly towards other people. ",
+        "2": "In your judgments you are selfless and selfless. ",
+        "3": "Your selfless actions regularly face misunderstandings from other people. ",
+        "4": "You are a purposeful person and full of dedication. ",
+        "5": "People think that you are a pure and selfless person and expect that you will somehow be involved in their lives. ",
+        "6": "You can clearly see who is selfish in their actions and who is not. "
+      },
+      "crosses": [
+        "right_angle_cross_of_vessel_of_love",
+        "left_angle_cross_of_healing"
+      ],
+      "love": "This is the most non-personal love. ",
+      "center": "g",
+      "across": 51,
+      "circuit": "individual",
+      "subCircuit": "centering"
+    },
+    "26": {
+      "name": "Sensation Recognition Gate",
+      "description": "You have the ability to persuade and express your thoughts so that other people believe you and are excited about your ideas. ",
+      "lines": {
+        "1": "You are content with what you have. ",
+        "2": "You tend to lie and exaggerate your achievements. ",
+        "3": "In life, you regularly face rejection. ",
+        "4": "You have the gift of persuasion and propaganda. ",
+        "5": "Your ability to connect with people and understand their unique needs is unparalleled. ",
+        "6": "You do not scatter yourself and invest your energy only in what has a solid basis and benefits not only you, but also those with whom you interact. "
+      },
+      "crosses": [
+        "right_angle_cross_of_governance",
+        "left_angle_cross_of_confrontation"
+      ],
+      "center": "heart",
+      "across": 44,
+      "circuit": "tribal",
+      "subCircuit": "ego"
+    },
+    "27": {
+      "name": "Gate of Growth",
+      "description": "Showing caring is an integral part of your character. ",
+      "lines": {
+        "1": "First of all, you take care of yourself and your interests. ",
+        "2": "You strive to care for other people. ",
+        "3": "You don't always understand how to show concern for others. ",
+        "4": "You are ready to show care when everything is fine with you and if you have already taken care of yourself.",
+        "5": "Other people are convinced that you will take care of them and expect it. ",
+        "6": "You trust and show care for a person if he really deserves it, and when you know for sure that your efforts will not be in vain."
+      },
+      "crosses": [
+        "right_angle_cross_of_the_unexpected",
+        "left_angle_cross_of_alignment"
+      ],
+      "sexuality": "You open up and are ready for sex if you see a lot in common with your partner, if you understand that he shares your values ​​and vision and feel that you are ready to give something to this person in sex. ",
+      "center": "sacred",
+      "across": 50,
+      "circuit": "tribal",
+      "subCircuit": "defense"
+    },
+    "28": {
+      "name": "Player Gate",
+      "description": "You are a risk-taker and know how to assess risks. ",
+      "lines": {
+        "1": "Before taking risks and making a decision, you prefer to understand the details of the issue. ",
+        "2": "When you take risks, you want to win at any cost. ",
+        "3": "When you take risks, you don't think about the details. ",
+        "4": "You are determined in your desire to see things through and win. ",
+        "5": "When you are around, people expect you to compete with them. ",
+        "6": "You don't want to fight and don't see the point in doing so in most cases. "
+      },
+      "crosses": [
+        "right_angle_cross_of_the_unexpected",
+        "left_angle_cross_of_alignment"
+      ],
+      "fear": "You are afraid that you will spend a meaningless life without understanding the higher purpose of your existence. ",
+      "love": "The search for love in the struggle to achieve a goal. ",
+      "center": "splenic",
+      "across": 38,
+      "circuit": "individual",
+      "subCircuit": "knowing"
+    },
+    "29": {
+      "name": "Player Gate",
+      "description": "You have life-affirming persistence. ",
+      "lines": {
+        "1": "You say “yes” to new experiences over and over again. ",
+        "2": "You are ready to say “yes” to new opportunities at any time. ",
+        "3": "You are reluctant to say “yes” to something new, and once you have started a process, you may remain inactive. ",
+        "4": "All experiences and life situations seem to lead you in one direction. ",
+        "5": "People see you as a person who knows how to insist and get things done. ",
+        "6": "You often ask yourself why and for what purpose you went through the experiences that life offers. "
+      },
+      "crosses": [
+        "right_angle_cross_of_contagion",
+        "juxtaposition_cross_of_commitment",
+        "left_angle_cross_of_industry"
+      ],
+      "sexuality": "Are you willing to say yes or no to sex with a certain person? ",
+      "business": "Personal job descriptions. ",
+      "center": "sacred",
+      "across": 46,
+      "circuit": "collective",
+      "subCircuit": "abstract"
+    },
+    "30": {
+      "name": "Sensation Recognition Gate",
+      "description": "You seek sensory experiences and know what it's like to live life to the fullest and strive for new experiences. ",
+      "lines": {
+        "1": "Living new experiences, you give yourself completely to it. ",
+        "2": "You are always looking for an opportunity to find an outlet for your feelings, whatever they may be. ",
+        "3": "Your life is filled with a variety of feelings and emotions. ",
+        "4": "Experience and emotions are like a drug for you. ",
+        "5": "You strive to immerse yourself in a new sensory experience and are not looking for repetition. ",
+        "6": "You want to experience only the best, most juicy emotions. "
+      },
+      "crosses": [
+        "right_angle_cross_of_contagion",
+        "left_angle_cross_of_industry"
+      ],
+      "fear": "You are afraid that something fatal will prevent what you have in mind from happening. ",
+      "sexuality": "You often feel a desire that begins to burn inside, and it needs to be realized as soon as possible. ",
+      "center": "solar_plexus",
+      "across": 41,
+      "circuit": "collective",
+      "subCircuit": "abstract"
+    },
+    "31": {
+      "name": "Gate of Leadership",
+      "description": "You have the power of influence and the ability to convey information to others. ",
+      "lines": {
+        "1": "Leading others comes naturally to you. ",
+        "2": "Your behavior conveys to others “I am a leader.” ",
+        "3": "Your leadership potential is unleashed when you have the right followers behind you. ",
+        "4": "You always have like-minded people who are ready to follow you and those who envy your successes and do not accept your leadership.",
+        "5": "It seems to other people that you are completely self-absorbed. ",
+        "6": "You know that you could take on leadership, but only if it is guaranteed to lead to results. "
+      },
+      "crosses": [
+        "right_angle_cross_of_the_unexpected",
+        "left_angle_cross_of_the_alpha"
+      ],
+      "business": "Interaction with authorities and higher structures.",
+      "center": "throat",
+      "across": 7,
+      "circuit": "collective",
+      "subCircuit": "logic"
+    },
+    "32": {
+      "name": "Gate of Ambition",
+      "description": "You strive not to repeat past mistakes and focus on long-term relationships and projects. ",
+      "lines": {
+        "1": "You take care of the established things that work in your life. ",
+        "2": "You demonstrate your strength and power and may overpromise to show influence and capabilities that may not exist.",
+        "3": "You are hesitant in the face of change. ",
+        "4": "You purposefully move in the chosen direction, remaining unconvinced in the face of possible changes. ",
+        "5": "You easily accept change and know how to adapt to a changing environment, without giving up tried and tested things that work.",
+        "6": "You know that in any business, changes are inevitable and they will happen in any case. "
+      },
+      "crosses": [
+        "right_angle_cross_of_maya",
+        "left_angle_cross_of_limitation"
+      ],
+      "fear": "You are afraid of failure, so you often procrastinate instead of starting something that could lead you to material prosperity. ",
+      "center": "splenic",
+      "across": 54,
+      "circuit": "tribal",
+      "subCircuit": "ego"
+    },
+    "33": {
+      "name": "Gate of Leadership",
+      "description": "You require periods of solitude to reflect and reflect on past experiences and events. ",
+      "lines": {
+        "1": "You tend to seek solitude and reflect on the experience and your role in it before going into a new one. ",
+        "2": "By your behavior you demonstrate that you are busy thinking and need privacy. ",
+        "3": "It is common for you to take a break from communication or other processes in order to retire and become aware of this experience. ",
+        "4": "You strive for solitude. ",
+        "5": "People think that you need privacy to think, and they encourage you to be alone. ",
+        "6": "You tend to think about global things. "
+      },
+      "crosses": [
+        "right_angle_cross_of_the_four_ways",
+        "left_angle_cross_of_refinement"
+      ],
+      "business": "Monitoring the regulatory progress of the production process. ",
+      "center": "throat",
+      "across": 13,
+      "circuit": "collective",
+      "subCircuit": "abstract"
+    },
+    "34": {
+      "name": "Gate of Power",
+      "description": "You have a vitality that drives you to find ways to express your unique personality. ",
+      "lines": {
+        "1": "You know that you can stand up for yourself. ",
+        "2": "By your behavior, you demonstrate to others that you have the power to remain yourself, to remain alive and to do what you want. ",
+        "3": "You strive to show your strength and masculinity, which from time to time leads you to mistakes and delusions.",
+        "4": "You believe in yourself and strive not to limit yourself in the manifestation of strength. ",
+        "5": "People see great strength in you and once again try not to disturb you, thinking that this could be fraught with trouble for them.",
+        "6": "You don't get carried away with displaying your power and know when to stop."
+      },
+      "crosses": [
+        "right_angle_cross_of_the_sleeping_phoenix",
+        "left_angle_cross_of_duality"
+      ],
+      "sexuality": "Sex is not your first priority. ",
+      "center": "sacred",
+      "across": 57,
+      "circuit": "individual",
+      "subCircuit": "integration"
+    },
+    "35": {
+      "name": "Gate of Change",
+      "description": "You strive to gain new experiences that change your life. ",
+      "lines": {
+        "1": "You know that while searching and immersing yourself in new experiences, you may receive rejection and humbly accept this.",
+        "2": "You seek immersion in new experiences during emotional moments. ",
+        "3": "You are always open to new experiences. ",
+        "4": "You crave new impressions and experiences. ",
+        "5": "People perceive you as someone with a wealth of experience and expect you to share it with them. ",
+        "6": "Before you enter into a new experience and take a step toward change, you ask yourself, “What is the point of this experience? "
+      },
+      "crosses": [
+        "right_angle_cross_of_consciousness",
+        "left_angle_cross_of_separation"
+      ],
+      "center": "throat",
+      "across": 36,
+      "circuit": "collective",
+      "subCircuit": "abstract"
+    },
+    "36": {
+      "name": "Gate of Crisis",
+      "description": "Your life is filled with emotions and crises - these are experiences that allow you to grow. ",
+      "lines": {
+        "1": "As you experience emotional turbulence, you learn and draw conclusions, gaining wisdom and greater emotional clarity as you age.",
+        "2": "You tend to provide support to those who feel depressed. ",
+        "3": "Your life is an endless series of changes that you experience emotionally and vividly. ",
+        "4": "You are interested in change and in living experiences to the fullest. ",
+        "5": "You live every experience of life honestly. ",
+        "6": "Life teaches you to live one or another emotional experience and not expect anything from it. "
+      },
+      "crosses": [
+        "right_angle_cross_of_eden",
+        "left_angle_cross_of_the_plane"
+      ],
+      "fear": "You are afraid that you will not be able to establish a long-term, deep and permanent relationship with a person, since you are constantly drawn to new emotional or sexual experiences.",
+      "sexuality": "You need sex. ",
+      "center": "solar_plexus",
+      "across": 35,
+      "circuit": "collective",
+      "subCircuit": "abstract"
+    },
+    "37": {
+      "name": "Gate of Friendship",
+      "description": "You are friendly and considerate of others. ",
+      "lines": {
+        "1": "You strive to build relationships on mutual respect, which leads to the qualitative development of relationships with “your” people.",
+        "2": "You want to be part of a family and relationship, but not belong to it. ",
+        "3": "Fairness in relationships and family is more important to you than the task of maintaining relationships.",
+        "4": "It is important for you that someone in your family and relationships resolves practical issues. ",
+        "5": "You are sincerely devoted to your family and attached to your loved ones. ",
+        "6": "It is important for you to understand where your relationships with other people, family, and sexual partners are going. "
+      },
+      "crosses": [
+        "right_angle_cross_of_planning",
+        "left_angle_cross_of_migration"
+      ],
+      "fear": "You are afraid that your participation, support, help to a loved one (even organizing everyday life) will not be rewarded. ",
+      "sexuality": "Tactile sensations and touches are important to you. ",
+      "center": "solar_plexus",
+      "across": 40,
+      "circuit": "tribal",
+      "subCircuit": "ego"
+    },
+    "38": {
+      "name": "Warrior Gate",
+      "description": "You have the energy to fight and protect your interests, independence and integrity. ",
+      "lines": {
+        "1": "You only fight for things that are truly valuable to you. ",
+        "2": "You don't think about what is and isn't worth fighting for. ",
+        "3": "You team up with other people to fight together, but until the initial goal is achieved or circumstances change. ",
+        "4": "You do not tolerate any influence or direction from other people. ",
+        "5": "You seem aloof to other people, absorbed in your process and the fight for something important to you. ",
+        "6": "What makes you move and struggle to find meaning in life is often incomprehensible to other people. "
+      },
+      "crosses": [
+        "right_angle_cross_of_tension",
+        "left_angle_cross_of_individualism"
+      ],
+      "center": "root",
+      "across": 28,
+      "circuit": "individual",
+      "subCircuit": "knowing"
+    },
+    "39": {
+      "name": "Provocateur's Gate",
+      "description": "Your behavior can be provocative. ",
+      "lines": {
+        "1": "You do not engage in open confrontation. ",
+        "2": "You also demonstrate a readiness for provocation and confrontation. ",
+        "3": "You try to avoid provocations on your part if you understand that such behavior can harm other people.",
+        "4": "You provoke others when you know for sure that this will lead to a specific result and changes for the other person.",
+        "5": "People think that you are being provocative and try to get out of your way. ",
+        "6": "You have a natural gift for getting to the heart of a person's problem. "
+      },
+      "crosses": [
+        "right_angle_cross_of_tension",
+        "juxtaposition_cross_of_provocation",
+        "left_angle_cross_of_individualism"
+      ],
+      "center": "root",
+      "across": 55,
+      "circuit": "individual",
+      "subCircuit": "knowing"
+    },
+    "40": {
+      "name": "Gate of Insight",
+      "description": "You tend to care for and provide resources for yourself and your loved ones, as well as those who value your contributions. ",
+      "lines": {
+        "1": "You are willing to work hard as long as you have the opportunity to rest and recover. ",
+        "2": "You feel comfortable when other people don't push you or demand you do something. ",
+        "3": "You prefer to be alone rather than interact with just anyone. ",
+        "4": "Whether it's a relationship or a job, over time you will organize this process in a way that is comfortable for you. ",
+        "5": "You stand guard over your interests and are always ready to firmly refuse those who want you to do something for them. ",
+        "6": "You recognize those who can negatively influence you or your loved ones and ensure that this person is eliminated before a conflict situation occurs. "
+      },
+      "crosses": [
+        "right_angle_cross_of_planning",
+        "left_angle_cross_of_migration"
+      ],
+      "sexuality": "Sex is both for pleasure and for procreation. ",
+      "love": "Finding love through work. ",
+      "center": "heart",
+      "across": 37,
+      "circuit": "tribal",
+      "subCircuit": "ego"
+    },
+    "41": {
+      "name": "Gate of Contraction",
+      "description": "You have a rich imagination and tend to dream about different sensory and emotional experiences. ",
+      "lines": {
+        "1": "You know that it is not possible to realize all your fantasies and focus only on those that you consider reasonable. ",
+        "2": "By your behavior you demonstrate that you are ready to experience one or another sensory experience, emotions and impressions. ",
+        "3": "You strive to fully experience your feelings and fantasies. ",
+        "4": "It is not typical for you to be scattered in your feelings. ",
+        "5": "Other people see you as someone who can understand them and feel what they feel. ",
+        "6": "You restrain your fantasies and desire to live sensual experiences. "
+      },
+      "crosses": [
+        "right_angle_cross_of_the_unexpected",
+        "left_angle_cross_of_the_alpha"
+      ],
+      "love": "Love that cannot exist without sexual experience and fantasies. ",
+      "center": "root",
+      "across": 30,
+      "circuit": "collective",
+      "subCircuit": "abstract"
+    },
+    "42": {
+      "name": "Gate of Growth",
+      "description": "You are ready to devote yourself to a cause that will benefit not only you, but also other people. ",
+      "lines": {
+        "1": "You never settle on one thing. ",
+        "2": "You are sensitive to the moment when an opportunity to gain new experience appears in your life. ",
+        "3": "Your endeavors are a constant process of trial and error. ",
+        "4": "You are often the link between people in different processes. ",
+        "5": "People see you as mature and experienced. ",
+        "6": "You doubt whether it is worth taking on a business, and take on only what, in your opinion, is guaranteed to lead to development and growth. "
+      },
+      "crosses": [
+        "right_angle_cross_of_maya",
+        "left_angle_cross_of_limitation"
+      ],
+      "sexuality": "You have your own cycle, your own periods of openness. ",
+      "center": "sacred",
+      "across": 53,
+      "circuit": "collective",
+      "subCircuit": "abstract"
+    },
+    "43": {
+      "name": "Gate of Insight",
+      "description": "You are having an internal dialogue with yourself. ",
+      "lines": {
+        "1": "You are in no hurry to share your insights. ",
+        "2": "You develop your ability to achieve clarity by choosing to think about the same topics. ",
+        "3": "You only share insights that seem practical to you.",
+        "4": "It may seem to you that your actions and insights are absolutely correct. ",
+        "5": "You try to express your knowledge in such a way that the other person understands exactly what you want to say. ",
+        "6": "It is not the knowledge itself that is important to you, but its significance and value. "
+      },
+      "crosses": [
+        "right_angle_cross_of_explanation",
+        "left_angle_cross_of_dedication"
+      ],
+      "fear": "You are afraid that your ideas will seem strange to others and will be rejected. ",
+      "center": "ajna",
+      "across": 23,
+      "circuit": "individual",
+      "subCircuit": "knowing"
+    },
+    "44": {
+      "name": "Gate of Liveliness",
+      "description": "You have spontaneous memory. ",
+      "lines": {
+        "1": "When building relationships with people, you strive to clearly define the role of each person in the interaction process.",
+        "2": "You are goal-oriented and when interacting with people you cannot always adequately assess the usefulness of a particular person. ",
+        "3": "You are sensitive to people with a strong ego who can contribute to a common goal. ",
+        "4": "You are straightforward, especially when it comes to collaborating with people. ",
+        "5": "You understand people and can determine what work to do to whom to achieve a common goal. ",
+        "6": "You are interested in a lot of things, but you are not ready to really get down to business until the ideal opportunity for this arises. "
+      },
+      "crosses": [
+        "right_angle_cross_of_the_four_ways",
+        "left_angle_cross_of_incarnation"
+      ],
+      "fear": "You are afraid that negative experiences from the past will be repeated, which led to material losses (money, real estate). ",
+      "love": "Love is found through success, merit and achievement. ",
+      "center": "splenic",
+      "across": 26,
+      "circuit": "tribal",
+      "subCircuit": "ego"
+    },
+    "45": {
+      "name": "Gate of Concord",
+      "description": "You are a potential leader and manager. ",
+      "lines": {
+        "1": "You strive to interest others and encourage them to use your ideas, knowledge and resources to benefit everyone. ",
+        "2": "By your behavior you demonstrate that you can be useful and benefit others. ",
+        "3": "You know that you can be useful to others. ",
+        "4": "When you lead something, you are primarily concerned with how beneficial a particular collaboration or action is for everyone involved in the process. ",
+        "5": "You are perceived as a leader and are involved in business as such. ",
+        "6": "If you are responsible for something, then you are ready to do anything to ensure that it develops and grows, despite the established rules. "
+      },
+      "crosses": [
+        "right_angle_cross_of_governance",
+        "left_angle_cross_of_confrontation"
+      ],
+      "center": "throat",
+      "across": 21,
+      "circuit": "tribal",
+      "subCircuit": "ego"
+    },
+    "46": {
+      "name": "Warrior Gate",
+      "description": "You achieve success when you are passionate about the process, immersed in it and not chasing a specific result. ",
+      "lines": {
+        "1": "You know what it means to be totally in the process of living any experience and not caring about the end result. ",
+        "2": "Whatever you do, your involvement or seriousness shows that you are in the right place, at the right time, and doing the right thing. ",
+        "3": "You are easily distracted from your immersion in the process. ",
+        "4": "You know how to stay in harmony with other people without being distracted from your own affairs. ",
+        "5": "Other people believe that whatever you do, you will certainly achieve success. ",
+        "6": "You are free from established restrictions. "
+      },
+      "crosses": [
+        "right_angle_cross_of_vessel_of_love",
+        "left_angle_cross_of_healing"
+      ],
+      "love": "You need to go from the stage of loving the body (your own or other people's) to full acceptance of the forms of both yours and everyone else. ",
+      "business": "Internal order, organization and regulation of joint actions.",
+      "center": "g",
+      "across": 29,
+      "circuit": "collective",
+      "subCircuit": "abstract"
+    },
+    "47": {
+      "name": "Gate of Power",
+      "description": "You strive to analyze past experiences to draw conclusions by putting all the pieces together. ",
+      "lines": {
+        "1": "You tend to become self-absorbed. ",
+        "2": "It is important for you to be busy all the time. ",
+        "3": "You tend to get lost in a chaotic heap of thoughts, forgetting that “here and now” everything is fine with you. ",
+        "4": "You tirelessly move along your life path, from time to time regretting missed opportunities.",
+        "5": "You don't dwell on your experiences and strive to help those who feel depressed. ",
+        "6": "It seems futile to you to try to understand the details of everyday experience; you are of little interest in this, because everything changes. "
+      },
+      "crosses": [
+        "right_angle_cross_of_governance",
+        "left_angle_cross_of_informing"
+      ],
+      "fear": "Constant thoughts and inner fear that nothing makes sense, everything is in vain. ",
+      "center": "ajna",
+      "across": 64,
+      "circuit": "collective",
+      "subCircuit": "abstract"
+    },
+    "48": {
+      "name": "Warrior Gate",
+      "description": "You understand many things. ",
+      "lines": {
+        "1": "You are able to understand many things, while your attention is directed to the practical aspects of them that deserve the attention of other people. ",
+        "2": "You take a special approach to every case. ",
+        "3": "You've tried a lot of things in life and almost none of them brought you satisfaction. ",
+        "4": "You tend to be disappointed in your achievements, since you are not always able to fully realize your talent. ",
+        "5": "You often know how to solve a given problem and are able to understand a difficult situation. ",
+        "6": "You are a gifted person. "
+      },
+      "crosses": [
+        "right_angle_cross_of_tension",
+        "left_angle_cross_of_endeavor"
+      ],
+      "fear": "You are looking for the essence of things and processes; it is important for you to penetrate into the depths and understand what is behind the façade. ",
+      "center": "splenic",
+      "across": 16,
+      "circuit": "collective",
+      "subCircuit": "logic"
+    },
+    "49": {
+      "name": "Arrangement Gate",
+      "description": "You have principles and beliefs that help you determine who you are comfortable building relationships with and who you are not. ",
+      "lines": {
+        "1": "You are true to your principles and beliefs and are ready to change them only when circumstances leave no choice.",
+        "2": "The principles and rules you come up with are often the result of a strong emotional outburst. ",
+        "3": "You can be very persistent in your beliefs and principles. ",
+        "4": "Your beliefs form the basis of your life's journey. ",
+        "5": "Your beliefs and principles may change depending on the circumstances, you can change the principles. ",
+        "6": "You are not ready to defend your principles, you simply move on your own path and understand the value of what you follow."
+      },
+      "crosses": [
+        "right_angle_cross_of_explanation",
+        "juxtaposition_cross_of_principles",
+        "left_angle_cross_of_revolution"
+      ],
+      "fear": "You are afraid that you will find yourself unnecessary to your loved ones, your social circle. ",
+      "sexuality": "When you need to get something (money, goals, resources, etc.), you put effort into it - you are in a drive that helps you. ",
+      "center": "solar_plexus",
+      "across": 19,
+      "circuit": "tribal",
+      "subCircuit": "ego"
+    },
+    "50": {
+      "name": "Gate of Own Behavior",
+      "description": "It is important for you to live in a society whose laws take care of people and future generations. ",
+      "lines": {
+        "1": "You do what you do without challenging the rules and social norms. ",
+        "2": "You don't care who thinks what about your moral beliefs and values. ",
+        "3": "The values ​​and rules you follow change throughout your life. ",
+        "4": "You tend to seek compromise for your own benefit, despite the established rules. ",
+        "5": "Over the course of your life, you will learn what rules work and can follow them for a long time. ",
+        "6": "You know how to live in such a way that everyone feels good. "
+      },
+      "crosses": [
+        "right_angle_cross_of_laws",
+        "left_angle_cross_of_wishes"
+      ],
+      "fear": "You are either afraid of responsibility and avoid it, or you take on too much responsibility for fear of losing a loved one, for example. ",
+      "center": "splenic",
+      "across": 27,
+      "circuit": "tribal",
+      "subCircuit": "defense"
+    },
+    "51": {
+      "name": "Provocateur's Gate",
+      "description": "You have the ability to recover from shocks. ",
+      "lines": {
+        "1": "From time to time, shocking situations happen in your life that may seem insurmountable, but each time you live this experience to the end, internalize it, realizing that there is nothing terrible about it. ",
+        "2": "You try to avoid shocks because you do not want to experience stress and difficulties that could throw you off balance.",
+        "3": "By remaining in the usual rhythm of life, you are able to cope with any shocks.",
+        "4": "You have your own special style and way of competing. ",
+        "5": "Your presence enhances the competitive spirit in others. ",
+        "6": "You are able to cope with any shocks and life challenges. "
+      },
+      "crosses": [
+        "right_angle_cross_of_penetration",
+        "left_angle_cross_of_the_clarion"
+      ],
+      "center": "heart",
+      "across": 25,
+      "circuit": "individual",
+      "subCircuit": "centering"
+    },
+    "52": {
+      "name": "Gate of Solitude",
+      "description": "You know how to concentrate on one thing for a long time. ",
+      "lines": {
+        "1": "Прежде чем действовать, вы долго обдумываете решающий шаг, концентрируйтесь. ",
+        "2": "Your behavior shows that you are focused on something, and if someone tries to distract you, you may get irritated. ",
+        "3": "You learn to concentrate throughout life. ",
+        "4": "You can only concentrate on one thing at a time. ",
+        "5": "Other people think that you can concentrate on the details of any topic at any time and, as a result, give practical advice or recommendations. ",
+        "6": "You focus only on those things that are truly worthy of your attention. "
+      },
+      "crosses": [
+        "right_angle_cross_of_service",
+        "juxtaposition_cross_of_stillness",
+        "left_angle_cross_of_demands"
+      ],
+      "center": "root",
+      "across": 9,
+      "circuit": "collective",
+      "subCircuit": "logic"
+    },
+    "53": {
+      "name": "Gate of Beginnings",
+      "description": "You are eager to try and do new things. ",
+      "lines": {
+        "1": "You tend to give up what you started in order to start a new process.",
+        "2": "By your behavior you demonstrate that you are ready to start something new at any moment. ",
+        "3": "When things are not calm around you, when you are in a relationship that is uncomfortable for you, you feel a strong desire to change something, starting a new process. ",
+        "4": "You are fulfilled when you finish what you started. ",
+        "5": "You strive to finish what you start without giving up new beginnings.",
+        "6": "Whatever you undertake, you want to complete what you started and get a new experience to the fullest. "
+      },
+      "crosses": [
+        "right_angle_cross_of_penetration",
+        "left_angle_cross_of_cycles"
+      ],
+      "center": "root",
+      "across": 42,
+      "circuit": "collective",
+      "subCircuit": "abstract"
+    },
+    "54": {
+      "name": "Gate of Ambition",
+      "description": "You strive to succeed and improve all areas of your life. ",
+      "lines": {
+        "1": "You succeed when your ambitions help another person develop. ",
+        "2": "By your behavior you demonstrate caution, prudence and insight. ",
+        "3": "In an effort to achieve success, you establish secret connections with people who can help you realize your potential. ",
+        "4": "You are successful when your ambitions serve the benefit of others and society. ",
+        "5": "Others see you as someone who has influence and is willing to help them. ",
+        "6": "Your ambitions are geared towards getting you to the very top in the end. "
+      },
+      "crosses": [
+        "right_angle_cross_of_penetration",
+        "left_angle_cross_of_cycles"
+      ],
+      "center": "root",
+      "across": 32,
+      "circuit": "tribal",
+      "subCircuit": "ego"
+    },
+    "55": {
+      "name": "Gate of the Spirit",
+      "description": "Your mood is changeable and has a tangible impact on your environment. ",
+      "lines": {
+        "1": "You strive for people from whom you can learn something in order to develop. ",
+        "2": "You do not hold back and express your emotions and mood openly. ",
+        "3": "It is important for you to trust your mood and make decisions taking into account your emotional state “here and now.” ",
+        "4": "It is important for you to be surrounded by those people who feed your good mood and adequately respond to bad ones.",
+        "5": "By working and interacting with people in a good mood, you are able to achieve significant results and receive recognition. ",
+        "6": "It is important for you that all your basic needs are met. "
+      },
+      "crosses": [
+        "right_angle_cross_of_the_sleeping_phoenix",
+        "left_angle_cross_of_spirit"
+      ],
+      "fear": "You are afraid of not finding what fills your life with meaning, passion, awakens the spirit, and fills you emotionally.",
+      "sexuality": "In a relationship, you are always in a state of playing daisy: sometimes I love you, sometimes I don’t like you. ",
+      "love": "Mysterious, poetic, emotional love, which does not know whether it is loved. ",
+      "center": "solar_plexus",
+      "across": 39,
+      "circuit": "individual",
+      "subCircuit": "knowing"
+    },
+    "56": {
+      "name": "Stimulation Gate",
+      "description": "You want people to believe what you say. ",
+      "lines": {
+        "1": "You strive to express ideas that can be of practical use.",
+        "2": "Through your behavior and words, you contribute to the growth of others. ",
+        "3": "Before you start speaking, it is important for you to make sure that you are being listened to carefully. ",
+        "4": "You tend to talk and strive to share all your thoughts. ",
+        "5": "Other people see you as a storyteller, a person who can tell something interesting, but not necessarily true.",
+        "6": "You are open to any ideas and are ready to share your thoughts only when you see real meaning in it. "
+      },
+      "crosses": [
+        "right_angle_cross_of_laws",
+        "left_angle_cross_of_distraction"
+      ],
+      "center": "throat",
+      "across": 11,
+      "circuit": "collective",
+      "subCircuit": "abstract"
+    },
+    "57": {
+      "name": "Warrior Gate",
+      "description": "You have powerful intuition. ",
+      "lines": {
+        "1": "The implementation of your intuition depends on whether you trust it or not. ",
+        "2": "Your values ​​and moral beliefs manifest intuitively in the here and now. ",
+        "3": "You are able to adapt and survive in any situation. ",
+        "4": "Your thoughts are often focused on establishing clarity in your relationships with other people. ",
+        "5": "Your intuition suggests the right actions for your development and the development of those around you. ",
+        "6": "Your intuition guides you if you are confused about what to do next. "
+      },
+      "crosses": [
+        "right_angle_cross_of_penetration",
+        "left_angle_cross_of_the_clarion"
+      ],
+      "fear": "You are afraid of what tomorrow might bring, you are afraid of change, so you hold on to what is familiar and familiar to you. ",
+      "center": "splenic",
+      "across": 10,
+      "circuit": "individual",
+      "subCircuit": "integration"
+    },
+    "58": {
+      "name": "Gate of Liveliness",
+      "description": "You strive to improve your life, but you don't always know where to direct your energy. ",
+      "lines": {
+        "1": "You have a great love for life, fullness and joy of being. ",
+        "2": "By your behavior you demonstrate that your energy is available, and all sorts of people come to you offering sometimes quite strange opportunities where you could put your energy.",
+        "3": "You prefer to direct your energy to those things that will benefit you personally. ",
+        "4": "In your affairs you are focused on one thing. ",
+        "5": "People turn to you for help, expecting you to apply your energy to solving their problems. ",
+        "6": "You have a lot of energy and prefer to invest only in what you consider to be a “worthwhile cause,” something that will lead to concrete results that benefit others."
+      },
+      "crosses": [
+        "right_angle_cross_of_service",
+        "juxtaposition_cross_of_vitality",
+        "left_angle_cross_of_demands"
+      ],
+      "love": "Creating ideal love, through pressure to correct and criticize, with the goal of improvement. ",
+      "center": "root",
+      "across": 18,
+      "circuit": "collective",
+      "subCircuit": "logic"
+    },
+    "59": {
+      "name": "Gate of Power",
+      "description": "By establishing relationships with people, you are able to overcome misunderstandings on a level that defies logical explanation. ",
+      "lines": {
+        "1": "In your relationships with people, you are able to get close and overcome barriers to intimacy before those barriers arise. ",
+        "2": "You are shy by nature, especially when it comes to relationships with the opposite sex. ",
+        "3": "You easily establish close relationships with people, but once you establish intimacy, you close yourself off. ",
+        "4": "You strive to establish friendly and trusting relationships with everyone. ",
+        "5": "Other people see you as someone who is ready to engage in close, intimate relationships. ",
+        "6": "You have had many short relationships and intimate relationships with people in your life, especially in the first half of your life. "
+      },
+      "crosses": [
+        "right_angle_cross_of_the_sleeping_phoenix",
+        "left_angle_cross_of_spirit"
+      ],
+      "sexuality": "For you, courtship and sex are a hunt. ",
+      "center": "sacred",
+      "across": 6,
+      "circuit": "tribal",
+      "subCircuit": "defense"
+    },
+    "60": {
+      "name": "Gate of Contraction",
+      "description": "You tend to think and dream about what you don't have. ",
+      "lines": {
+        "1": "When you are faced with external restrictions that you cannot influence, you become despondent and melancholy. ",
+        "2": "There is always something in your life that you feel is limiting you and preventing you from developing. ",
+        "3": "You are absolutely not going to tolerate restrictions that hold you back. ",
+        "4": "You know that in order for the desired changes to occur in life, you must first accept what is. ",
+        "5": "Other people expect you to be decisive in the face of limiting factors. ",
+        "6": "You are not looking for change. "
+      },
+      "crosses": [
+        "right_angle_cross_of_laws",
+        "left_angle_cross_of_distraction"
+      ],
+      "center": "root",
+      "across": 3,
+      "circuit": "individual",
+      "subCircuit": "knowing"
+    },
+    "61": {
+      "name": "Gate of Mystery",
+      "description": "Your thoughts are aimed at finding answers. ",
+      "lines": {
+        "1": "You strive to find answers to questions that concern you and can look for them in esoteric teachings.",
+        "2": "By your behavior you demonstrate that you are unique and have special knowledge. ",
+        "3": "It is important for you to share your discoveries and the answers you find with others. ",
+        "4": "You may be obsessed with researching and finding answers to a topic. ",
+        "5": "Other people see you as smart and influential. ",
+        "6": "Your thoughts can be very inspiring to others, but you don't tend to share everything. "
+      },
+      "crosses": [
+        "right_angle_cross_of_maya",
+        "left_angle_cross_of_obscuration"
+      ],
+      "center": "head",
+      "across": 24,
+      "circuit": "individual",
+      "subCircuit": "knowing"
+    },
+    "62": {
+      "name": "Gate Details",
+      "description": "When explaining something, you try to use facts. ",
+      "lines": {
+        "1": "You tend to build logical processes and find connections between different details. ",
+        "2": "Your behavior demonstrates that you are focused on details. ",
+        "3": "You can be bored by working with details and at the same time, you can find valuable discoveries in working with them.",
+        "4": "You are passionate about bringing a topic that interests you to a completed, detailed form. ",
+        "5": "Other people see you as a person who has all the necessary details and details and is able to share them. ",
+        "6": "You pay attention to detail only on issues that you believe are viable and capable of producing results for you and others."
+      },
+      "crosses": [
+        "right_angle_cross_of_maya",
+        "left_angle_cross_of_obscuration"
+      ],
+      "center": "throat",
+      "across": 17,
+      "circuit": "collective",
+      "subCircuit": "logic"
+    },
+    "63": {
+      "name": "Gate of Doubt",
+      "description": "You think skeptically. ",
+      "lines": {
+        "1": "Until you have all the answers regarding what is in doubt, you will not rest. ",
+        "2": "By your behavior you demonstrate your doubts and suspicions. ",
+        "3": "You are rarely satisfied with other people's answers. ",
+        "4": "You are a master of tough questions. ",
+        "5": "Other people think that you have solutions and answers to their concerns. ",
+        "6": "You rarely forget answers to important questions once received. "
+      },
+      "crosses": [
+        "right_angle_cross_of_consciousness",
+        "left_angle_cross_of_dominion"
+      ],
+      "center": "head",
+      "across": 4,
+      "circuit": "collective",
+      "subCircuit": "logic"
+    },
+    "64": {
+      "name": "Gate of the Egoist",
+      "description": "You often think about the past, trying to determine the significance of an experience and your role in it. ",
+      "lines": {
+        "1": "In your reflections on the past, you seek to penetrate to the essence of experience and thus gain clarity and understanding.",
+        "2": "By your behavior you demonstrate that you are confused. ",
+        "3": "You hope that clarity about the past and your role in it will come sooner or later. ",
+        "4": "You are convinced that any confusion about past experiences will be dispelled and awareness will set in. ",
+        "5": "By your behavior, you demonstrate that you are able to cope with any embarrassment and confusion. ",
+        "6": "You do not strive to gain clarity about the past and your role in it. "
+      },
+      "crosses": [
+        "right_angle_cross_of_consciousness",
+        "left_angle_cross_of_dominion"
+      ],
+      "center": "head",
+      "across": 47,
+      "circuit": "collective",
+      "subCircuit": "abstract"
+    }
+  },
+  "channels": {
+    "10-34": {
+      "name": "Study",
+      "description": "You follow your beliefs and responses. "
+    },
+    "27-50": {
+      "name": "Saving",
+      "description": "You know how to care for and raise offspring. ",
+      "circuit": "tribal",
+      "subCircuit": "defense"
+    },
+    "28-38": {
+      "name": "Struggle",
+      "description": "You fight for a goal, defend your positions. ",
+      "circuit": "individual",
+      "subCircuit": "knowing"
+    },
+    "30-41": {
+      "name": "Recognition",
+      "description": "You feel life and dreams come true. ",
+      "circuit": "collective",
+      "subCircuit": "abstract"
+    },
+    "33-13": {
+      "name": "Story Teller",
+      "description": "You are a teller of stories that share life experiences. "
+    },
+    "3-60": {
+      "name": "Mutation",
+      "description": "You can change yourself and change other people",
+      "circuit": "individual",
+      "subCircuit": "knowing"
+    },
+    "18-58": {
+      "name": "Judgment",
+      "description": "You are a critical person, you see what can be improved, you express your judgment. ",
+      "circuit": "collective",
+      "subCircuit": "logic"
+    },
+    "55-39": {
+      "name": "Emotionality",
+      "description": "You are romantic and emotional. "
+    },
+    "42-53": {
+      "name": "Maturation",
+      "description": "You can start and end various processes. ",
+      "circuit": "collective",
+      "subCircuit": "abstract"
+    },
+    "2-14": {
+      "name": "Heartbeat",
+      "description": "You have your own innovative direction, which can lead to material prosperity. This channel is known as the Keeper of the Keys. ",
+      "circuit": "individual",
+      "subCircuit": "knowing"
+    },
+    "32-54": {
+      "name": "Transformation",
+      "description": "You have a flair for material success. ",
+      "circuit": "tribal",
+      "subCircuit": "ego"
+    },
+    "40-37": {
+      "name": "Community",
+      "description": "You provide family support. "
+    },
+    "61-24": {
+      "name": "Mindfulness",
+      "description": "You sit and philosophize in silence or alone"
+    },
+    "49-19": {
+      "name": "Synthesis",
+      "description": "You strive to be fair and align the needs of the tribe with your highest principles. "
+    },
+    "11-56": {
+      "name": "Curiosity",
+      "description": "You are an inquisitive person, interested in different things, travel, love to write and draw. ",
+      "circuit": "collective",
+      "subCircuit": "abstract"
+    },
+    "9-52": {
+      "name": "Concentration",
+      "description": "You can concentrate unmovingly on the details. ",
+      "circuit": "collective",
+      "subCircuit": "logic"
+    },
+    "31-7": {
+      "name": "Alpha",
+      "description": "You can lead to a better future. "
+    },
+    "59-6": {
+      "name": "Pairing",
+      "description": "You can conflict for the sake of a satisfying relationship. "
+    },
+    "43-23": {
+      "name": "Structuring",
+      "description": "You express your individual knowledge and structure information. "
+    },
+    "63-4": {
+      "name": "Logics",
+      "description": "You can find logical answers to questions. "
+    },
+    "8-1": {
+      "name": "Inspiration",
+      "description": "You can make other people stronger with your inspiration and creativity. These people have natural creativity and talents to express themselves in a unique way. "
+    },
+    "16-48": {
+      "name": "Talent channel",
+      "description": "You are enthusiastic about sharing your skills and talents, expressing your taste. ",
+      "circuit": "collective",
+      "subCircuit": "logic"
+    },
+    "25-51": {
+      "name": "Initiation",
+      "description": "You take the initiative that inspires others with your determination.",
+      "circuit": "individual",
+      "subCircuit": "centering"
+    },
+    "20-57": {
+      "name": "Insight",
+      "description": "Intuitive awareness in the present moment. ",
+      "circuit": "individual",
+      "subCircuit": "integration"
+    },
+    "20-34": {
+      "name": "Charisma",
+      "description": "You show charisma, exert your individual power of influence in the present moment",
+      "circuit": "individual",
+      "subCircuit": "integration"
+    },
+    "34-57": {
+      "name": "Strength",
+      "description": "You have an intuitive awareness of the power of your influence and survival.",
+      "circuit": "individual",
+      "subCircuit": "integration"
+    },
+    "15-5": {
+      "name": "Rhythm",
+      "description": "You have the gift of involving others in your life rhythm."
+    },
+    "21-45": {
+      "name": "Money",
+      "description": "You are the leader who unites, protects and trains the tribe so that it survives. ",
+      "circuit": "tribal",
+      "subCircuit": "ego"
+    },
+    "26-44": {
+      "name": "Change",
+      "description": "You have an Ego that survives through the exchange and transfer of values. ",
+      "circuit": "tribal",
+      "subCircuit": "ego"
+    },
+    "22-12": {
+      "name": "Openness",
+      "description": "You influence others through the power of your expressed feelings and emotions."
+    },
+    "20-10": {
+      "name": "Awakening",
+      "description": "You have your best behavior and realize yourself in the present moment"
+    },
+    "36-35": {
+      "name": "Fleetingness",
+      "description": "You are a jack of all trades, perfecting your craft. "
+    },
+    "17-62": {
+      "name": "Acceptance",
+      "description": "You are a good organizer. ",
+      "circuit": "collective",
+      "subCircuit": "logic"
+    },
+    "10-57": {
+      "name": "Perfect form",
+      "description": "You have behavior based on self-respect and self-love. ",
+      "circuit": "individual",
+      "subCircuit": "integration"
+    },
+    "46-29": {
+      "name": "Opening",
+      "description": "You look outside the family. "
+    },
+    "64-47": {
+      "name": "Abstraction",
+      "description": "You have an active mind, inspired to search for answers in your senses and experiences."
+    }
+  },
+  "centers": {
+    "root": {
+      "name": "Root Center",
+      "description": "",
+      "normal": "+ You are able to cope with stressful extreme situations, you have powerful adrenaline energy that can move mountains. ",
+      "distorted": "− If you don’t know how to use your powerful primitive energy in the right direction, you begin to put pressure on other people or turn it against yourself. "
+    },
+    "sacral": {
+      "name": "Sacral Center",
+      "description": "",
+      "normal": "+ You have a powerful source of energy, and if this energy is spent from the response, you feel satisfaction from the energy spent. ",
+      "distorted": "− Your vital energy, directed not from the response, will be depleted and stuck. "
+    },
+    "splenic": {
+      "name": "Spleen Center",
+      "description": "",
+      "normal": "+ You have intuition and a powerful immune system, and you know how to cope with your fears, which gives you a feeling of security. ",
+      "distorted": "− You may ignore your hunches and body signals when something unhealthy is happening. "
+    },
+    "solar_plexus": {
+      "name": "Emotional center",
+      "description": "",
+      "normal": "+ You understand the nature of your emotional wave - you accept both good moods and bad ones, and you know that both will pass. ",
+      "distorted": "− You do not accept your bad mood, blame yourself or others for it, and try to do something about it out of your mind. "
+    },
+    "g": {
+      "name": "Center G",
+      "description": "",
+      "normal": "+ You always know who you are, you have a sense of your direction and you are aware of your place and role in life. ",
+      "distorted": "− You determine the direction of your movement and search for love according to the dictation of your mind. "
+    },
+    "throat": {
+      "name": "Throat center",
+      "description": "",
+      "normal": "+ You have a constant voice, a way of expressing yourself and acting that you can always rely on. ",
+      "distorted": "− You can talk and do too much, get involved indiscriminately for any reason. "
+    },
+    "heart": {
+      "name": "Ego Center",
+      "description": "",
+      "normal": "+ You understand and see the value of other people, are satisfied with your wealth, and are able to interact without making specific promises. ",
+      "distorted": "− Always low self-esteem and the desire to prove one’s own worth to oneself and others out of one’s mind. "
+    },
+    "ajna": {
+      "name": "Ajna, Center of the Mind",
+      "description": "",
+      "normal": "+ You absorb information like a sponge and are open to different ways of thinking, concepts and ideas. ",
+      "distorted": "− You tend to cling to your opinions, knowledge and ideas. "
+    },
+    "head": {
+      "name": "Parietal Center",
+      "description": "",
+      "normal": "+ You know that the thoughts and ideas that inspire you come from outside. ",
+      "distorted": "− They tend to be inspired by things that have nothing to do with your life. "
+    }
+  },
+  "types": {
+    "manifesting_generator": {
+      "name": "Manifesting Generator",
+      "description": "Every day you constantly react to life, to the weather outside the window or a random question, to food or the desire to go to the shower, when you listen to your favorite music or do work that you enjoy. "
+    },
+    "projector": {
+      "name": "Projector",
+      "description": "Your gift is the ability to read people and feel their energy. "
+    },
+    "generator": {
+      "name": "Generator",
+      "description": "You are not made to take initiative. "
+    },
+    "reflector": {
+      "name": "Reflector",
+      "description": "Not only do you reflect the energy of those around you, but you also enhance it. "
+    },
+    "manifestor": {
+      "name": "Manifestor",
+      "description": "The Manifestor is the only type who is created to initiate any action on his own. "
+    }
+  },
+  "profiles": {
+    "1/3": {
+      "name": "1/3",
+      "description": "A person who gains confidence by learning from his own mistakes, an experimenter and a skeptic in life. "
+    },
+    "2/4": {
+      "name": "2/4",
+      "description": "A person who has a talent that was hidden for the time being, who is careful about his private life, in whom others often see more than he would like to allow. "
+    },
+    "3/5": {
+      "name": "3/5",
+      "description": "A born rebel, an expert in making mistakes and getting into different, not always pleasant situations. "
+    },
+    "4/6": {
+      "name": "4/6",
+      "description": "An objective witness who uses his communication skills and experiences to teach and influence others."
+    },
+    "5/1": {
+      "name": "5/1",
+      "description": "A person “for others”, capable of giving practical solutions, being helpful, showing a practical point of view on any issue. "
+    },
+    "6/2": {
+      "name": "6/2",
+      "description": "A person who is often a role model for others and is usually surprised by this."
+    },
+    "1/4": {
+      "name": "1/4",
+      "description": "A person who needs loyal and devoted friends with whom he can share his hobbies, interests and discoveries. "
+    },
+    "2/5": {
+      "name": "2/5",
+      "description": "You are a pioneer who spreads his discoveries to the wider environment. "
+    },
+    "3/6": {
+      "name": "3/6",
+      "description": "A person who is here to guide others through the wisdom he has gained from making his own mistakes. "
+    },
+    "4/1": {
+      "name": "4/1",
+      "description": "A person who will never be able to change himself, and for whom a very special path in life is prepared. "
+    },
+    "6/3": {
+      "name": "6/3",
+      "description": "A person who knows well the value of his mistakes and failures."
+    },
+    "5/2": {
+      "name": "5/2",
+      "description": "A person who is always subject to high demands and expectations. "
+    }
+  },
+  "authorities": {
+    "emotional": {
+      "name": "Solar plexus",
+      "description": "Wait for clarity before making a decision. "
+    },
+    "sacral": {
+      "name": "Sacred authority",
+      "description": "The answers come from your gut without hesitation. "
+    },
+    "lunar": {
+      "name": "Lunar Authority",
+      "description": "You should have trusted \"advisers\" with whom you can discuss your situation or your potential solutions while you wait through the Moon cycle. "
+    },
+    "mental": {
+      "name": "External authority",
+      "description": "You make a decision by talking to several people in different places. "
+    },
+    "self_projected": {
+      "name": "Gee authority",
+      "description": "You need to discuss your decision with others to hear your truth in the moment of conversation. "
+    },
+    "splenic": {
+      "name": "Splenic authority",
+      "description": "You need to listen to your inner voice/intuition and act on it, regardless of the consequences. "
+    }
+  },
+  "crosses": {
+    "right_angle_cross_of_tension": {
+      "name": "Right Angle Cross of Tension",
+      "description": "You are full of desire to provoke, fight, control and get to the bottom of various aspects of the universe. "
+    },
+    "left_angle_cross_of_individualism": {
+      "name": "Left Angle Cross of Individualism",
+      "description": "You are a unique person, unlike anyone else in this world. "
+    },
+    "right_angle_cross_of_penetration": {
+      "name": "Right Angle Cross of Penetration",
+      "description": "You are here to bring something new into the world thanks to your ambition and ability to launch new processes. "
+    },
+    "left_angle_cross_of_cycles": {
+      "name": "Left Angle Cross of Cycles",
+      "description": "You are here to constantly begin new cycles, continue to work and transform the world, increasing material wealth. "
+    },
+    "right_angle_cross_of_maya": {
+      "name": "Right Angle Cross of Maya",
+      "description": "You were born with an irresistible desire to explore the cyclical nature of this world, understand its patterns and structure, and also find your place in society where you will bring maximum benefit. "
+    },
+    "left_angle_cross_of_obscuration": {
+      "name": "Left Angle Cross of Eclipse",
+      "description": "In your life you will be plunged into deep exploration of this world. "
+    },
+    "right_angle_cross_of_laws": {
+      "name": "Right Angle Cross of Laws",
+      "description": "You are here to focus on creating and maintaining a functioning structure, ensuring the security and continuity of civilization. "
+    },
+    "left_angle_cross_of_distraction": {
+      "name": "Left Angle Cross of Distraction",
+      "description": "Your main strength lies in your voice. "
+    },
+    "right_angle_cross_of_the_unexpected": {
+      "name": "Right Angle Cross of the Unexpected",
+      "description": "You are an extremely unpredictable person. "
+    },
+    "left_angle_cross_of_the_alpha": {
+      "name": "Left Angle Cross of Alpha",
+      "description": "You have the potential to become a leader who can influence large numbers of people. "
+    },
+    "right_angle_cross_of_the_four_ways": {
+      "name": "Right Angle Cross of Four Paths",
+      "description": "Four types of energy are concentrated in you, each of which carries opportunities for the development of humanity. "
+    },
+    "left_angle_cross_of_refinement": {
+      "name": "Left Angle Cross of Improvement",
+      "description": "You are here to show people the best ways to achieve what they need to survive and thrive. "
+    },
+    "right_angle_cross_of_the_sphinx": {
+      "name": "Right Angle Cross of the Sphinx",
+      "description": "Your task is to give direction in life to the people around you. "
+    },
+    "left_angle_cross_of_masks": {
+      "name": "Left Angle Cross of Masks",
+      "description": "You are here to share your individual knowledge with others. "
+    },
+    "right_angle_cross_of_explanation": {
+      "name": "Right Angle Cross Explanations",
+      "description": "You are here to implement new principles by which the team must survive. "
+    },
+    "juxtaposition_cross_of_principles": {
+      "name": "Cross of the Juxta Position of the Principles",
+      "description": "Your fate is predetermined. "
+    },
+    "left_angle_cross_of_revolution": {
+      "name": "Left Angle Cross of the Revolution",
+      "description": "You came into this world as a revolutionary, capable of bringing change and new ideas on how to build society. "
+    },
+    "right_angle_cross_of_contagion": {
+      "name": "Right Angle Cross of Infection",
+      "description": "Your task is to spread something completely new in the world - from everyday everyday things to promoting innovative ideas and solutions. "
+    },
+    "left_angle_cross_of_industry": {
+      "name": "Left Angle Cross of Industry",
+      "description": "You are perhaps one of the busiest people on the planet - a perpetual motion machine that never stops. "
+    },
+    "right_angle_cross_of_the_sleeping_phoenix": {
+      "name": "Right Angle Cross of the Sleeping Phoenix",
+      "description": "You are a person with perhaps the most changeable moods. "
+    },
+    "left_angle_cross_of_spirit": {
+      "name": "Left Angle Cross of the Spirit",
+      "description": "You are heavily focused on seeking sexual intimacy and romantic love. "
+    },
+    "right_angle_cross_of_planning": {
+      "name": "Right Angle Cross of Planning",
+      "description": "Your energy contributes to the creation, strengthening and preservation of community, no matter what shape or form it takes. "
+    },
+    "left_angle_cross_of_migration": {
+      "name": "Left Angle Cross of Migration",
+      "description": "You have energy that glues together people in any team, bringing into it all kinds of deals and alliances. "
+    },
+    "right_angle_cross_of_consciousness": {
+      "name": "Right Angle Cross of Consciousness",
+      "description": "You are here so that people can become aware of the important aspects of our lives and decide to follow the progression of changes or stay where they are at the moment. "
+    },
+    "left_angle_cross_of_dominion": {
+      "name": "Left Angle Cross of Dominance",
+      "description": "In your life, you question everything, you are suspicious, you know how to manipulate and lead. "
+    },
+    "right_angle_cross_of_governance": {
+      "name": "Right Angle Cross of Control",
+      "description": "Your openness, listening and ability to find meaning in the past, as well as your talent for manipulation and unification, make you a natural ruler. "
+    },
+    "juxtaposition_cross_of_grace": {
+      "name": "Cross of the Juxta Position of Grace",
+      "description": "Your fate is predetermined. "
+    },
+    "left_angle_cross_of_informing": {
+      "name": "Left Angle Cross of Information",
+      "description": "You collect and then disseminate information: ideas, thoughts, images, concepts and beliefs. "
+    },
+    "right_angle_cross_of_eden": {
+      "name": "Right Angle Cross of Eden",
+      "description": "Your task is to go through a path full of ups and downs, crises and suffering, happiness and love. "
+    },
+    "left_angle_cross_of_the_plane": {
+      "name": "Left Angle Cross Plan",
+      "description": "In this life you are destined to see all the extremes of life and human manifestations: from self-sacrifice to monstrous baseness. "
+    },
+    "right_angle_cross_of_vessel_of_love": {
+      "name": "Right Angle Cross of the Vessel of Love",
+      "description": "You have the enormous healing power of love within you. "
+    },
+    "left_angle_cross_of_healing": {
+      "name": "Left Angle Cross of Healing",
+      "description": "You are here to heal yourself and to heal others. "
+    },
+    "right_angle_cross_of_service": {
+      "name": "Right Angle Cross of Service",
+      "description": "You are here to be of service to other people, to make things better, and to bring joy into the world. "
+    },
+    "juxtaposition_cross_of_opinions": {
+      "name": "Cross of the juxta-position of Opinions",
+      "description": "Your fate is predetermined. "
+    },
+    "left_angle_cross_of_upheaval": {
+      "name": "Left Angle Cross of Riot",
+      "description": "Your job is to poke your nose into other people's business, to create tension. "
+    },
+    "left_angle_cross_of_endeavour": {
+      "name": "Left Angle Cross of Aspiration",
+      "description": "You bring change to our world because you strive to find something new that could be created and then managed. "
+    },
+    "left_angle_cross_of_the_clarion": {
+      "name": "Left Angle Cross of the Bugle",
+      "description": "You are here to reveal to people a new truth that may even shock them. "
+    },
+    "left_angle_cross_of_limitation": {
+      "name": "Left Angle Cross Restrictions",
+      "description": "You are here to give people the limits they need to live successfully in the physical world. "
+    },
+    "left_angle_cross_of_wishes": {
+      "name": "Left Angle Cross of Desires",
+      "description": "You are here to change the usual laws and attitudes, ignite a dream in the hearts, and give people hope for a better future. "
+    },
+    "left_angle_cross_of_alignment": {
+      "name": "Left Angle Alignment Cross",
+      "description": "You are here to face unexpected situations and channel them into their natural course. "
+    },
+    "left_angle_cross_of_incarnation": {
+      "name": "Left Angle Cross of Incarnation",
+      "description": "You have an inventive mind and were born with the ability to find rational answers to any question. "
+    },
+    "left_angle_cross_of_defiance": {
+      "name": "Left Angle Cross of Defiance",
+      "description": "You are here to follow your direction, be creative, and change the direction of other people's lives. "
+    },
+    "juxtaposition_cross_of_assimilation": {
+      "name": "Cross of the Assimilation Juxta Position",
+      "description": "Your fate is predetermined. "
+    },
+    "left_angle_cross_of_dedication": {
+      "name": "Left Angle Cross of Initiation",
+      "description": "You simplify and structure information - this is a unique feature of your mind. "
+    },
+    "left_angle_cross_of_uncertainty": {
+      "name": "Left Angle Cross of Uncertainty",
+      "description": "You are here to make your unique contribution to the world through action and creation - for this you have a huge internal resource that can support the work. "
+    },
+    "left_angle_cross_of_duality": {
+      "name": "Left Angle Cross of Duality",
+      "description": "There are two completely different types of energy coming together within you. "
+    },
+    "left_angle_cross_of_identification": {
+      "name": "Left Angle Cross of Identification",
+      "description": "You know how to inspire people with a project so much that they are ready to give maximum of their resources and energy for its implementation. "
+    },
+    "left_angle_cross_of_separation": {
+      "name": "Left Angle Cross of Separation",
+      "description": "You have the energy and understanding of when to leave what has been passed and move on to progress and prosperity. "
+    },
+    "left_angle_cross_of_confrontation": {
+      "name": "Left Angle Cross of Confrontation",
+      "description": "You are born to be a leader, a leader of a community, capable of uniting similar human resources for common prosperity. "
+    },
+    "left_angle_cross_of_education": {
+      "name": "Left Angle Cross of Education",
+      "description": "Your realization occurs through action and creation in the material world. "
+    },
+    "left_angle_cross_of_prevention": {
+      "name": "Left Angled Warning Cross",
+      "description": "You are here to warn other people about the possible danger that may arise in their lives due to incorrect behavior. "
+    },
+    "juxtaposition_cross_of_stillness": {
+      "name": "Cross of the Juxta Position of Stillness",
+      "description": "Your fate is predetermined. "
+    },
+    "left_angle_cross_of_demands": {
+      "name": "Left Angled Cross of Requirements",
+      "description": "Your energy is aimed at making this world more comfortable, safer and more joyful for everyone. "
+    },
+    "juxtaposition_cross_of_provocation": {
+      "name": "Cross of Juxta Position Provocation",
+      "description": "Your fate is predetermined. "
+    },
+    "juxtaposition_cross_of_commitment": {
+      "name": "Cross of the Agreement's juxta position",
+      "description": "Your fate is predetermined. "
+    },
+    "juxtaposition_cross_of_conflict": {
+      "name": "Cross of the Conflict Juxta Position",
+      "description": "Your fate is predetermined. "
+    },
+    "juxtaposition_cross_of_self_expression": {
+      "name": "Cross of the Juxta Position of Self-Expression",
+      "description": "Your fate is predetermined. "
+    },
+    "juxtaposition_cross_of_ideas": {
+      "name": "Cross of the Juxta Position of Ideas",
+      "description": "Your fate is predetermined. "
+    },
+    "juxtaposition_cross_of_vitality": {
+      "name": "Cross of the Juxta Position of Vitality",
+      "description": "Your fate is predetermined. "
+    }
+  },
+  "diet": {
+    "colors": {
+      "1": "This is the most ancient and primitive food system. ",
+      "2": "Selective nutrition system. ",
+      "3": "This type of digestion is sensitive to manipulations with temperature and food. ",
+      "4": "The importance of what to eat is inferior in importance to the circumstances in which the food is taken. ",
+      "5": "Bodies that are sensitive to sound levels in general. ",
+      "6": "This is the last, from an evolutionary point of view, the most complex and modern digestive system, which was formed with the advent of artificial lighting. "
+    },
+    "tones": {
+      "1": "Для вас гармонично принимать пищу в спокойной, тихой, мирной, расслабленной обстановке. ",
+      "2": "It is harmonious for you to eat in a calm, quiet, peaceful, relaxed environment. ",
+      "3": "It is harmonious for you to eat in a calm, quiet, peaceful, relaxed environment. ",
+      "4": "Sensitivity to quiet, relaxing sounds. ",
+      "5": "Sensitivity to quiet, relaxing sounds. ",
+      "6": "Sensitivity to quiet, relaxing sounds. "
+    }
+  },
+  "motivation": {
+    "colors": {
+      "1": "You are able to get down to the very basics, see the details that need to be noticed in order to know what to do to survive. ",
+      "2": "You have the cognitive gift and awareness to know that something will happen. ",
+      "3": "A person is driven by desire that comes from within. ",
+      "4": "Man is driven by a feeling of Need. ",
+      "5": "They act out of guilt. ",
+      "6": "Happiness: Perfection You don't have to act at all. "
+    },
+    "tones": {}
+  },
+  "vision": {
+    "colors": {
+      "1": "Presence",
+      "2": "Doing",
+      "3": "Experience",
+      "4": "Communication",
+      "5": "Achievement",
+      "6": "Mission"
+    },
+    "tones": {}
+  },
+  "environment": {
+    "colors": {
+      "1": "You may not feel comfortable in rooms with more than one exit; they like a closed space with one door. ",
+      "2": "This is the next stage in the development of human habitats, when people came out of caves to trade with each other and do business. ",
+      "3": "Kitchens are when people set up powerful infrastructures in cities, all sorts of factories and workshops, factories and canteens, and so on. ",
+      "4": "The need to view something from a certain distance (and among a select few). ",
+      "5": "Your correct environment is crossroads where different people, information, and strangers meet. ",
+      "6": "The shores are a kind of border place, a place of transition from one to another. "
+    },
+    "tones": {}
+  },
+  "circuits": {
+    "individual": {
+      "name": "Individual contour",
+      "description": "Focuses on personal transformation, uniqueness, self-realization and bringing mutations into the world. ",
+      "sub_circuits": {
+        "knowing": {
+          "name": "Circuit of Knowledge",
+          "description": "Insights, inner truth, originality of thinking and deep creativity."
+        },
+        "centering": {
+          "name": "Centering Circuit",
+          "description": "Self-reliance, unconditional self-love and following your unique nature."
+        },
+        "integration": {
+          "name": "Integration Channels",
+          "description": "Basic energy of survival, self-preservation and adaptation in the moment ('here and now')."
+        }
+      }
+    },
+    "collective": {
+      "name": "Collective circuit",
+      "description": "Aimed at transferring experience, training and development of humanity. ",
+      "sub_circuits": {
+        "logic": {
+          "name": "Circuit of Understanding (Logical)",
+          "description": "Focuses on identifying patterns, testing hypotheses, and creating logical solutions for the future."
+        },
+        "abstract": {
+          "name": "Contour of Sensation (Abstract)",
+          "description": "Aimed at understanding past experience, reflection and cyclical development."
+        }
+      }
+    },
+    "tribal": {
+      "name": "Tribal outline",
+      "description": "Focuses on family, support, resource protection and community survival. ",
+      "sub_circuits": {
+        "ego": {
+          "name": "Ego Circuit",
+          "description": "Material support for the tribe, contracts, business and mutual support."
+        },
+        "defense": {
+          "name": "Protection Circuit",
+          "description": "Caring for loved ones, raising children and maintaining community stability."
+        }
+      }
+    }
+  }
+}
