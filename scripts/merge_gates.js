@@ -90,7 +90,29 @@ const CROSSES_MAP = {
     'Левоугольный Крест Неповиновения': 'left_angle_cross_of_defiance',
     'Левоугольный Крест Интуиции': 'left_angle_cross_of_intuition',
     'Левоугольный Крест Интеллекта': 'left_angle_cross_of_intellect',
-    'Правоугольный Крест Исцеления': 'right_angle_cross_of_healing'
+    'Правоугольный Крест Исцеления': 'right_angle_cross_of_healing',
+    'left_angle_cross_of_неуверенности': 'left_angle_cross_of_uncertainty',
+    'left_angle_cross_of_предупреждения': 'left_angle_cross_of_prevention',
+    'juxtaposition_cross_of_идей': 'juxtaposition_cross_of_ideas',
+    'left_angle_cross_of_образования': 'left_angle_cross_of_education',
+    'left_angle_cross_of_бунта': 'left_angle_cross_of_upheaval',
+    'left_angle_cross_of_дуальности': 'left_angle_cross_of_duality',
+    'left_angle_cross_of_стремления': 'left_angle_cross_of_endeavour',
+    'left_angle_cross_of_инкарнации': 'left_angle_cross_of_incarnation',
+    'left_angle_cross_of_конфронтации': 'left_angle_cross_of_confrontation',
+    'left_angle_cross_of_выравнивания': 'left_angle_cross_of_alignment',
+    'left_angle_cross_of_ограничения': 'left_angle_cross_of_limitation',
+    'left_angle_cross_of_разделения': 'left_angle_cross_of_separation',
+    'juxtaposition_cross_of_провокации': 'juxtaposition_cross_of_provocation',
+    'left_angle_cross_of_желаний': 'left_angle_cross_of_wishes',
+    'left_angle_cross_of_горна': 'left_angle_cross_of_the_clarion',
+    'juxtaposition_cross_of_неподвижности': 'juxtaposition_cross_of_stillness',
+    'left_angle_cross_of_требований': 'left_angle_cross_of_demands',
+    'juxtaposition_cross_of_жизненности': 'juxtaposition_cross_of_vitality',
+    'juxtaposition_cross_of_конфликта': 'juxtaposition_cross_of_conflict',
+    'juxtaposition_cross_of_ассимиляции': 'juxtaposition_cross_of_assimilation',
+    'juxtaposition_cross_of_соглашения': 'juxtaposition_cross_of_commitment',
+    'left_angle_cross_of_идентификации': 'left_angle_cross_of_identification'
 };
 
 const TONE_MAP = {
