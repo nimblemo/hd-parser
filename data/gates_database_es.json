@@ -17,10 +17,10 @@
         "left_angle_cross_of_defiance"
       ],
       "business": "Aplicación específica de los recursos entrantes aquí y ahora en base a una visión común.",
-      "center": "gramo",
+      "center": "g",
       "across": 8,
       "circuit": "individual",
-      "subCircuit": "conocimiento"
+      "subCircuit": "knowing"
     },
     "2": {
       "name": "Puerta de la racionalización",
@@ -38,10 +38,10 @@
         "left_angle_cross_of_defiance"
       ],
       "business": "Comprender el negocio como un todo.",
-      "center": "gramo",
+      "center": "g",
       "across": 14,
       "circuit": "individual",
-      "subCircuit": "conocimiento"
+      "subCircuit": "knowing"
     },
     "3": {
       "name": "Puerta del crecimiento",
@@ -59,10 +59,10 @@
         "left_angle_cross_of_wishes"
       ],
       "sexuality": "Estás abierto al sexo, pero tienes cierta incertidumbre: cómo será, qué necesitas, qué quieres... Necesitas una pareja que te aporte esta confianza: sabe cómo, sabe qué, no se preocupa. La tranquilidad y confianza de tu pareja es muy importante; te ayuda a organizar tu vida en general.",
-      "center": "sagrado",
+      "center": "sacred",
       "across": 60,
       "circuit": "individual",
-      "subCircuit": "conocimiento"
+      "subCircuit": "knowing"
     },
     "4": {
       "name": "Puerta de formulación",
@@ -80,10 +80,10 @@
         "left_angle_cross_of_revolution"
       ],
       "fear": "Tienes miedo al caos y al desorden. Experimentas inquietud interior y pensamientos constantes de que nunca habrá orden en tu vida. Estás intentando explicarte racionalmente cómo proceder.",
-      "center": "ajña",
+      "center": "ajna",
       "across": 63,
-      "circuit": "colectivo",
-      "subCircuit": "lógica"
+      "circuit": "collective",
+      "subCircuit": "logic"
     },
     "5": {
       "name": "Puerta de ritmo fija",
@@ -102,10 +102,10 @@
       ],
       "sexuality": "Para ti son importantes cierto ritual, tu propia visión del sexo, los detalles. Planificas el sexo y la secuencia de acciones al hacer el amor es siempre específica. Esperas esto de tu pareja. En este caso, puedes abrirte y relajarte. Puedes dejarte seducir si comprendes tus rituales, conoces los detalles que son importantes para ti en el sexo y los sigues.",
       "business": "Esto puede incluir un código de vestimenta y una actitud respetuosa hacia los miembros del equipo.",
-      "center": "sagrado",
+      "center": "sacred",
       "across": 15,
-      "circuit": "colectivo",
-      "subCircuit": "lógica"
+      "circuit": "collective",
+      "subCircuit": "logic"
     },
     "6": {
       "name": "Puerta de fricción",
@@ -125,10 +125,10 @@
       ],
       "fear": "Tienes miedo de admitirte a ti mismo quién eres realmente. Tienes miedo de abrirte y mostrar tu verdadero yo. Miedo a la intimidad y la cercanía emocional con los demás. Si superas estos miedos, tienes el potencial de crear relaciones emocionales cercanas. Tú determinas el impulso en una relación.",
       "sexuality": "Necesitas libertad en una relación. En cuanto empiezan a controlarte, empiezan los problemas. Instantáneamente pierdes emocionalmente cualquier contacto con tu pareja. No necesariamente correrás hacia otra mujer u hombre, pero se pierde el contacto emocional, aunque puede conducir a otras conexiones. Tan pronto como surge el control, surgen los problemas.",
-      "center": "plexo_solar",
+      "center": "solar_plexus",
       "across": 59,
       "circuit": "tribal",
-      "subCircuit": "defensa"
+      "subCircuit": "defense"
     },
     "7": {
       "name": "Puerta de la continuidad",
@@ -146,10 +146,10 @@
         "left_angle_cross_of_masks"
       ],
       "business": "Elaboración de planos, presupuestos, proyectos. Estructura interna de las organizaciones.",
-      "center": "gramo",
+      "center": "g",
       "across": 31,
-      "circuit": "colectivo",
-      "subCircuit": "lógica"
+      "circuit": "collective",
+      "subCircuit": "logic"
     },
     "8": {
       "name": "Puerta de asistencia",
@@ -167,10 +167,10 @@
         "left_angle_cross_of_uncertainty"
       ],
       "business": "Marketing, publicidad, presentaciones, imagen pública.",
-      "center": "garganta",
+      "center": "throat",
       "across": 1,
       "circuit": "individual",
-      "subCircuit": "conocimiento"
+      "subCircuit": "knowing"
     },
     "9": {
       "name": "Puerta de ritmo fija",
@@ -188,10 +188,10 @@
         "left_angle_cross_of_identification"
       ],
       "sexuality": "Ciertos detalles del sexo son importantes para ti. Todo debe ser como a ti te gusta: velas, ropa de cama, fragancias... El sexo está del lado de la abstracción y la lógica aquí puede fallar. ¿Quieres algo nuevo? Es importante sentirlo (y no imaginarlo): qué es exactamente lo que se necesita. Y entonces podrás sentir algo nuevo, algo mejor.",
-      "center": "sagrado",
+      "center": "sacred",
       "across": 52,
-      "circuit": "colectivo",
-      "subCircuit": "lógica"
+      "circuit": "collective",
+      "subCircuit": "logic"
     },
     "10": {
       "name": "Puerta del propio comportamiento",
@@ -209,10 +209,10 @@
         "left_angle_cross_of_prevention"
       ],
       "love": "El amor propio se encuentra cuando otras personas te aman. Si alguien te ama te permite pensar que quizás hay algo en ti que te permite amarte a ti mismo. Quieres que alguien te ame. Quieres recibir amor. Si no eres amado, puedes deprimirte.",
-      "center": "gramo",
+      "center": "g",
       "across": 57,
       "circuit": "individual",
-      "subCircuit": "integración"
+      "subCircuit": "integration"
     },
     "11": {
       "name": "Puerta de reconocimiento de sensaciones",
@@ -231,10 +231,10 @@
         "left_angle_cross_of_education"
       ],
       "fear": "Tiene miedo de que se agote su flujo de nuevas ideas sobre su campo de actividad y la vida en general. Tienes miedo de la ignorancia y la falta de conocimiento.",
-      "center": "ajña",
+      "center": "ajna",
       "across": 56,
-      "circuit": "colectivo",
-      "subCircuit": "abstracto"
+      "circuit": "collective",
+      "subCircuit": "abstract"
     },
     "12": {
       "name": "Puerta de precaución",
@@ -252,10 +252,10 @@
         "left_angle_cross_of_education"
       ],
       "sexuality": "No te gusta exponerte; más bien, siempre te escondes en compañía. Pero si ves apertura e interés hacia ti, correspondes. Es importante que escuches. Esto es tono, sonido, vibración, son canciones, historias románticas. Esta es una pasión que se eleva hasta los cielos. La pasión puede abrumarte tanto que no puedas hablar lo suficiente con tu pareja. Necesitas constantemente algo nuevo, algo fresco para mantener el romance. Es muy difícil ser romántico cuando conoces a una persona desde hace mucho tiempo, no hay altibajos. Y esto no es ni malo ni bueno. Eres tú.",
-      "center": "garganta",
+      "center": "throat",
       "across": 22,
       "circuit": "individual",
-      "subCircuit": "conocimiento"
+      "subCircuit": "knowing"
     },
     "13": {
       "name": "La puerta del oyente",
@@ -273,10 +273,10 @@
         "left_angle_cross_of_masks"
       ],
       "business": "Estadísticas, contabilidad, informes.",
-      "center": "gramo",
+      "center": "g",
       "across": 33,
-      "circuit": "colectivo",
-      "subCircuit": "abstracto"
+      "circuit": "collective",
+      "subCircuit": "abstract"
     },
     "14": {
       "name": "Puerta de aceptación",
@@ -295,10 +295,10 @@
       ],
       "sexuality": "Tu energía sexual se mueve en una sinusoide: sube y baja. No eres partidario del sexo reflexivo; Lo más probable es que estés a favor del sexo rápido.",
       "business": "Recursos, dinero, tecnología, derechos de autor.",
-      "center": "sagrado",
+      "center": "sacred",
       "across": 2,
       "circuit": "individual",
-      "subCircuit": "conocimiento"
+      "subCircuit": "knowing"
     },
     "15": {
       "name": "Puerta de la sexualidad",
@@ -317,10 +317,10 @@
       ],
       "love": "Este es el amor por la humanidad en general. No te importa a quién amas: estás amando de manera impersonal. Es útil darse cuenta de que no amas a una persona específica, simplemente amas y amas amar. Por lo general, miras a los socios potenciales desde la posición: \"¿Eres digno de mi amor?\" Porque sabes lo que puedes amar y la pregunta principal es ¿a quién elegirás exactamente para este papel?",
       "business": "Da la sensación de que el grupo se ha reunido por una razón, pero forma un equipo muy unido, lo que da una sensación de fiabilidad.",
-      "center": "gramo",
+      "center": "g",
       "across": 5,
-      "circuit": "colectivo",
-      "subCircuit": "lógica"
+      "circuit": "collective",
+      "subCircuit": "logic"
     },
     "16": {
       "name": "Puerta de habilidades",
@@ -337,10 +337,10 @@
         "right_angle_cross_of_planning",
         "left_angle_cross_of_identification"
       ],
-      "center": "garganta",
+      "center": "throat",
       "across": 48,
-      "circuit": "colectivo",
-      "subCircuit": "lógica"
+      "circuit": "collective",
+      "subCircuit": "logic"
     },
     "17": {
       "name": "Puerta del cambio",
@@ -359,10 +359,10 @@
         "left_angle_cross_of_upheaval"
       ],
       "fear": "Tienes miedo de que tu opinión sea cuestionada, por eso no la expresas. Busca hechos que respalden su punto de vista porque se siente inseguro.",
-      "center": "ajña",
+      "center": "ajna",
       "across": 62,
-      "circuit": "colectivo",
-      "subCircuit": "lógica"
+      "circuit": "collective",
+      "subCircuit": "logic"
     },
     "18": {
       "name": "Puerta de ritmo fija",
@@ -380,10 +380,10 @@
         "left_angle_cross_of_upheaval"
       ],
       "fear": "Tienes miedo de las críticas y la condena, o te juzgas constantemente a ti mismo y a los demás. Miedo a ser rechazado o juzgado por los demás. Al mismo tiempo buscas autoridad para ti mismo y la devalúas, desilusionándote de ella. Al mismo tiempo, tienes el potencial de comprender todo profundamente por ti mismo y convertirte en una autoridad y un experto en algo. Gracias a un excelente pensamiento lógico, es posible mejorar los procesos que ocurren en diferentes áreas de la vida.",
-      "center": "esplénico",
+      "center": "splenic",
       "across": 58,
-      "circuit": "colectivo",
-      "subCircuit": "lógica"
+      "circuit": "collective",
+      "subCircuit": "logic"
     },
     "19": {
       "name": "Puerta de contracción",
@@ -401,7 +401,7 @@
         "left_angle_cross_of_refinement"
       ],
       "sexuality": "Puedes coquetear. Puedes hacer esto explícitamente, de forma oculta o con astucia. Por ejemplo, en una habitación hay varios hombres y una mujer. Ella presta atención a todos, pero no a uno. Y él es lo que más le interesa a ella. Ignorar también es parte del coqueteo. Pero si esto es realmente ignorar, entonces es una estafa incluso antes de cualquier convergencia.",
-      "center": "raíz",
+      "center": "root",
       "across": 49,
       "circuit": "tribal",
       "subCircuit": "ego"
@@ -421,10 +421,10 @@
         "right_angle_cross_of_the_sleeping_phoenix",
         "left_angle_cross_of_duality"
       ],
-      "center": "garganta",
+      "center": "throat",
       "across": 10,
       "circuit": "individual",
-      "subCircuit": "integración"
+      "subCircuit": "integration"
     },
     "21": {
       "name": "La puerta del provocador",
@@ -441,7 +441,7 @@
         "right_angle_cross_of_tension",
         "left_angle_cross_of_endeavor"
       ],
-      "center": "corazón",
+      "center": "heart",
       "across": 45,
       "circuit": "tribal",
       "subCircuit": "ego"
@@ -464,10 +464,10 @@
       ],
       "fear": "Tienes miedo de que los demás no te escuchen. También tiene miedo de que, al comunicarse con la gente, no escuche nada valioso para usted. Si está de buen humor, puede traducirlo en palabras y está abierto a escuchar y escuchar a los demás.",
       "sexuality": "Para ti son muy importantes los aspectos auditivos y vibratorios: música, sonido, tono, timbre de la voz. Si te abres con alguien que te dice algo o te susurra algo, entonces te excitas y puedes abrirte sexualmente.",
-      "center": "plexo_solar",
+      "center": "solar_plexus",
       "across": 12,
       "circuit": "individual",
-      "subCircuit": "conocimiento"
+      "subCircuit": "knowing"
     },
     "23": {
       "name": "Puerta de estimulación",
@@ -485,10 +485,10 @@
         "juxtaposition_cross_of_assimilation",
         "left_angle_cross_of_dedication"
       ],
-      "center": "garganta",
+      "center": "throat",
       "across": 43,
       "circuit": "individual",
-      "subCircuit": "conocimiento"
+      "subCircuit": "knowing"
     },
     "24": {
       "name": "Puerta de la racionalización",
@@ -506,10 +506,10 @@
         "left_angle_cross_of_incarnation"
       ],
       "fear": "Pensamientos constantes y miedo interior de no encontrar respuestas a sus preguntas internas importantes, de no comprender lo que significa la verdad. Miedo a no poder saber la verdad. Miedo a perder la inspiración.",
-      "center": "ajña",
+      "center": "ajna",
       "across": 61,
       "circuit": "individual",
-      "subCircuit": "conocimiento"
+      "subCircuit": "knowing"
     },
     "25": {
       "name": "Puerta del Espíritu del Ser",
@@ -527,10 +527,10 @@
         "left_angle_cross_of_healing"
       ],
       "love": "Este es el amor más impersonal. Este es el amor en el universo. Simplemente amas y eso es todo. Si se requiere que ames a alguien en particular o que muestres sentimientos, entonces esa relación puede enfriarse.",
-      "center": "gramo",
+      "center": "g",
       "across": 51,
       "circuit": "individual",
-      "subCircuit": "centrado"
+      "subCircuit": "centering"
     },
     "26": {
       "name": "Puerta de reconocimiento de sensaciones",
@@ -547,7 +547,7 @@
         "right_angle_cross_of_governance",
         "left_angle_cross_of_confrontation"
       ],
-      "center": "corazón",
+      "center": "heart",
       "across": 44,
       "circuit": "tribal",
       "subCircuit": "ego"
@@ -568,10 +568,10 @@
         "left_angle_cross_of_alignment"
       ],
       "sexuality": "Te abres y estás listo para el sexo si ves mucho en común con tu pareja, si entiendes que él comparte tus valores y visión y sientes que estás listo para darle algo a esta persona en el sexo. Cuando muestras el llamado cuidado sexual, haces más por tu pareja de lo que recibes por ti mismo. Este es tu placer.",
-      "center": "sagrado",
+      "center": "sacred",
       "across": 50,
       "circuit": "tribal",
-      "subCircuit": "defensa"
+      "subCircuit": "defense"
     },
     "28": {
       "name": "Puerta del jugador",
@@ -590,10 +590,10 @@
       ],
       "fear": "Tienes miedo de pasar una vida sin sentido sin comprender el propósito superior de tu existencia. Estás buscando un propósito en la vida por el cual no tengas miedo de sacrificar esta vida. Por el bien de ese objetivo, estás dispuesto a correr riesgos y luchar conscientemente.",
       "love": "La búsqueda del amor en la lucha por alcanzar una meta. Sin un objetivo, las relaciones no tienen significado. Intenta tener una meta que no sea algo físico, sino un estado que quieras experimentar.",
-      "center": "esplénico",
+      "center": "splenic",
       "across": 38,
       "circuit": "individual",
-      "subCircuit": "conocimiento"
+      "subCircuit": "knowing"
     },
     "29": {
       "name": "Puerta del jugador",
@@ -613,10 +613,10 @@
       ],
       "sexuality": "¿Estás dispuesto a decir sí o no al sexo con una determinada persona? Siempre esperas y piensas que el sexo será genial.",
       "business": "Descripciones de puestos personales. Normas laborales. Responsabilidad. Espíritu de ayuda mutua.",
-      "center": "sagrado",
+      "center": "sacred",
       "across": 46,
-      "circuit": "colectivo",
-      "subCircuit": "abstracto"
+      "circuit": "collective",
+      "subCircuit": "abstract"
     },
     "30": {
       "name": "Puerta de reconocimiento de sensaciones",
@@ -635,10 +635,10 @@
       ],
       "fear": "Tienes miedo de que algo fatal impida que suceda lo que tienes en mente. Tienes miedo de la falta de control sobre esto, tienes miedo del “fatum” o del “destino”.",
       "sexuality": "A menudo sientes un deseo que comienza a arder por dentro y es necesario realizarlo lo antes posible. A veces quieres repetir los sentimientos que experimentaste con alguien en el pasado. Miras hacia atrás: “algo fue tan asombroso” y quieres repetir esta experiencia. Este deseo te enciende si surge la oportunidad de tener relaciones sexuales. Pero, por regla general, suele ser imposible repetir lo sucedido.",
-      "center": "plexo_solar",
+      "center": "solar_plexus",
       "across": 41,
-      "circuit": "colectivo",
-      "subCircuit": "abstracto"
+      "circuit": "collective",
+      "subCircuit": "abstract"
     },
     "31": {
       "name": "Puerta del liderazgo",
@@ -656,10 +656,10 @@
         "left_angle_cross_of_the_alpha"
       ],
       "business": "Interacción con autoridades y estructuras superiores.",
-      "center": "garganta",
+      "center": "throat",
       "across": 7,
-      "circuit": "colectivo",
-      "subCircuit": "lógica"
+      "circuit": "collective",
+      "subCircuit": "logic"
     },
     "32": {
       "name": "Puerta de la ambición",
@@ -677,7 +677,7 @@
         "left_angle_cross_of_limitation"
       ],
       "fear": "Tienes miedo al fracaso, por lo que a menudo pospones las cosas en lugar de empezar algo que podría llevarte a la prosperidad material. Puede que seas demasiado conservador. Al mismo tiempo, tiene una idea y comprensión de cuándo y qué se debe hacer exactamente para ascender en la escala social y la prosperidad material.",
-      "center": "esplénico",
+      "center": "splenic",
       "across": 54,
       "circuit": "tribal",
       "subCircuit": "ego"
@@ -698,10 +698,10 @@
         "left_angle_cross_of_refinement"
       ],
       "business": "Seguimiento del avance regulatorio del proceso productivo. Represión del hurto y la elusión.",
-      "center": "garganta",
+      "center": "throat",
       "across": 13,
-      "circuit": "colectivo",
-      "subCircuit": "abstracto"
+      "circuit": "collective",
+      "subCircuit": "abstract"
     },
     "34": {
       "name": "Puerta del poder",
@@ -719,10 +719,10 @@
         "left_angle_cross_of_duality"
       ],
       "sexuality": "El sexo no es tu primera prioridad. A menudo estás ocupado con otras cosas y preocupaciones. Simplemente no hay tiempo para el sexo. Si organiza y planifica su tiempo, simplemente puede programar relaciones sexuales y seguir el horario.",
-      "center": "sagrado",
+      "center": "sacred",
       "across": 57,
       "circuit": "individual",
-      "subCircuit": "integración"
+      "subCircuit": "integration"
     },
     "35": {
       "name": "Puerta del cambio",
@@ -739,10 +739,10 @@
         "right_angle_cross_of_consciousness",
         "left_angle_cross_of_separation"
       ],
-      "center": "garganta",
+      "center": "throat",
       "across": 36,
-      "circuit": "colectivo",
-      "subCircuit": "abstracto"
+      "circuit": "collective",
+      "subCircuit": "abstract"
     },
     "36": {
       "name": "Puerta de la crisis",
@@ -761,10 +761,10 @@
       ],
       "fear": "Tienes miedo de no poder establecer una relación duradera, profunda y permanente con una persona, ya que constantemente te atraen nuevas experiencias emocionales o sexuales.",
       "sexuality": "Necesitas sexo. Puede que desconfíes de las nuevas conexiones, pero aún así estás listo para vivir nuevas experiencias y no tener miedo de las consecuencias. Tu peculiaridad es que quieres que tu pareja te pertenezca no sólo en cuerpo, sino también en alma, psicológicamente. El sexo para ti también es un aspecto psicológico y espiritual. Esto a menudo conduce a una crisis en las relaciones. Y la crisis no siempre la provocas tú; más aún, la crisis la provocan aquellos con quienes tienes una relación.",
-      "center": "plexo_solar",
+      "center": "solar_plexus",
       "across": 35,
-      "circuit": "colectivo",
-      "subCircuit": "abstracto"
+      "circuit": "collective",
+      "subCircuit": "abstract"
     },
     "37": {
       "name": "Puerta de la amistad",
@@ -783,7 +783,7 @@
       ],
       "fear": "Tienes miedo de que tu participación, apoyo y ayuda a un ser querido (incluso organizando la vida cotidiana) no sean recompensados. Tienes miedo de que, a pesar de todos tus esfuerzos, seas traicionado y abandonado. Al mismo tiempo, es posible que le preocupe no brindar el apoyo adecuado a su ser querido.",
       "sexuality": "Las sensaciones táctiles y los toques son importantes para usted. Ésta es la necesidad de abrazar, besar, tocar. A menudo te encuentras en un papel en el que se te exige lealtad y respeto: \"Si me respetas, te amo. Si me escuchas, te amo\".",
-      "center": "plexo_solar",
+      "center": "solar_plexus",
       "across": 40,
       "circuit": "tribal",
       "subCircuit": "ego"
@@ -803,10 +803,10 @@
         "right_angle_cross_of_tension",
         "left_angle_cross_of_individualism"
       ],
-      "center": "raíz",
+      "center": "root",
       "across": 28,
       "circuit": "individual",
-      "subCircuit": "conocimiento"
+      "subCircuit": "knowing"
     },
     "39": {
       "name": "La puerta del provocador",
@@ -824,10 +824,10 @@
         "juxtaposition_cross_of_provocation",
         "left_angle_cross_of_individualism"
       ],
-      "center": "raíz",
+      "center": "root",
       "across": 55,
       "circuit": "individual",
-      "subCircuit": "conocimiento"
+      "subCircuit": "knowing"
     },
     "40": {
       "name": "Puerta de la percepción",
@@ -846,7 +846,7 @@
       ],
       "sexuality": "El sexo es tanto para el placer como para la procreación. Para ti, el sexo se trata más de placer. Porque cuantos más niños, más gente necesita ser alimentada. Sí, estás dispuesto a hacer esto si crees que eres respetado. Respeto = Amor. Para ti, las relaciones son amor y odio. \"Si me respetas, te amo. Si me escuchas, te amo\". El respeto es fundamental para ti. Estás dispuesto a amar, estás dispuesto a invertir en una relación con una persona si sientes su respeto. Exiges devoción. Y en cuanto se acaba el respeto, aparece el odio. \"Si no me respetas, no te amo\". De ahí la reacción: me traicionaste, ¡te odio! Siempre revisas a tu pareja: ¿eres mía o no?",
       "love": "Encontrar el amor a través del trabajo. Amor logrado a través de la obtención de recursos que apoyan a las personas que amas. Me encanta trabajar y me encanta dar.",
-      "center": "corazón",
+      "center": "heart",
       "across": 37,
       "circuit": "tribal",
       "subCircuit": "ego"
@@ -867,10 +867,10 @@
         "left_angle_cross_of_the_alpha"
       ],
       "love": "Amor que no puede existir sin experiencias y fantasías sexuales. Es un amor que se convierte en fantasías de sexo e intimidad que no puedes experimentar sabiendo que te arrepentirás. No importa qué tipo de pareja tengas en tu vida, siempre soñarás con algo más y eso es normal. Después de todo, el mundo es tan limitado que aquí no todo es siempre igual que en tus fantasías.",
-      "center": "raíz",
+      "center": "root",
       "across": 30,
-      "circuit": "colectivo",
-      "subCircuit": "abstracto"
+      "circuit": "collective",
+      "subCircuit": "abstract"
     },
     "42": {
       "name": "Puerta del crecimiento",
@@ -888,10 +888,10 @@
         "left_angle_cross_of_limitation"
       ],
       "sexuality": "Tienes tu propio ciclo, tus propios períodos de apertura. Lo mismo ocurre en términos de sexo: en un determinado período estás abierto al sexo, en un determinado período no. Hay una naturaleza cíclica.",
-      "center": "sagrado",
+      "center": "sacred",
       "across": 53,
-      "circuit": "colectivo",
-      "subCircuit": "abstracto"
+      "circuit": "collective",
+      "subCircuit": "abstract"
     },
     "43": {
       "name": "Puerta de la percepción",
@@ -909,10 +909,10 @@
         "left_angle_cross_of_dedication"
       ],
       "fear": "Tienes miedo de que tus ideas parezcan extrañas a los demás y sean rechazadas. Necesitas que los demás te comprendan.",
-      "center": "ajña",
+      "center": "ajna",
       "across": 23,
       "circuit": "individual",
-      "subCircuit": "conocimiento"
+      "subCircuit": "knowing"
     },
     "44": {
       "name": "Puerta de la vivacidad",
@@ -931,7 +931,7 @@
       ],
       "fear": "Tiene miedo de que se repitan experiencias negativas del pasado que le provocaron pérdidas materiales (dinero, bienes inmuebles). Tienes miedo de no contar con todo lo que necesitas económicamente, por eso buscas a alguien con quien creas que te garantizará una existencia digna.",
       "love": "El amor se encuentra a través del éxito, el mérito y los logros. Éxito material o éxito en la realización de talentos. Amas porque puedes hacer que tu pareja sea exitosa. En el yo falso, afirmas que el éxito se debe a ti.",
-      "center": "esplénico",
+      "center": "splenic",
       "across": 26,
       "circuit": "tribal",
       "subCircuit": "ego"
@@ -951,7 +951,7 @@
         "right_angle_cross_of_governance",
         "left_angle_cross_of_confrontation"
       ],
-      "center": "garganta",
+      "center": "throat",
       "across": 21,
       "circuit": "tribal",
       "subCircuit": "ego"
@@ -973,10 +973,10 @@
       ],
       "love": "Es necesario pasar de la etapa de amar el cuerpo (propio o ajeno) a la plena aceptación de las formas tanto del propio como de los demás. Con la aceptación total de las formas, comenzarás a amar tu cuerpo y el de los demás, viéndolos de una manera completamente diferente. Dejarás de odiarte a ti mismo y a los demás en el nivel de sus formas y comenzarás a experimentar el amor por todas las formas en un nivel espiritual profundo.",
       "business": "Orden interno, organización y regulación de actuaciones conjuntas.",
-      "center": "gramo",
+      "center": "g",
       "across": 29,
-      "circuit": "colectivo",
-      "subCircuit": "abstracto"
+      "circuit": "collective",
+      "subCircuit": "abstract"
     },
     "47": {
       "name": "Puerta del poder",
@@ -994,10 +994,10 @@
         "left_angle_cross_of_informing"
       ],
       "fear": "Pensamientos constantes y miedo interior de que nada tiene sentido, todo es en vano. Quizás hay algún tema en tu vida, eventos, pensamientos sobre los cuales te reprimen constantemente; estás buscando respuestas a preguntas sobre el significado de lo que sucedió y no las encuentras.",
-      "center": "ajña",
+      "center": "ajna",
       "across": 64,
-      "circuit": "colectivo",
-      "subCircuit": "abstracto"
+      "circuit": "collective",
+      "subCircuit": "abstract"
     },
     "48": {
       "name": "Puerta del guerrero",
@@ -1015,10 +1015,10 @@
         "left_angle_cross_of_endeavor"
       ],
       "fear": "Buscas la esencia de las cosas y de los procesos; es importante que usted penetre en las profundidades y comprenda lo que hay detrás de la fachada. A veces te pierdes en esta profundidad y aparece el miedo a la insuficiencia y a la locura.",
-      "center": "esplénico",
+      "center": "splenic",
       "across": 16,
-      "circuit": "colectivo",
-      "subCircuit": "lógica"
+      "circuit": "collective",
+      "subCircuit": "logic"
     },
     "49": {
       "name": "Puerta de arreglo",
@@ -1038,7 +1038,7 @@
       ],
       "fear": "Tienes miedo de resultar innecesario para tus seres queridos y tu círculo social. El miedo a ser rechazado y no deseado puede ser tan fuerte que puedes cambiar tus principios para complacer a tus seres queridos.",
       "sexuality": "Cuando necesitas conseguir algo (dinero, metas, recursos, etc.), te esfuerzas en ello: estás en un impulso que te ayuda. Cuando lo logras, te relajas. Es posible que no se le incluya particularmente en el proceso en el futuro. Este esquema también te funciona en términos de sexo.",
-      "center": "plexo_solar",
+      "center": "solar_plexus",
       "across": 19,
       "circuit": "tribal",
       "subCircuit": "ego"
@@ -1059,10 +1059,10 @@
         "left_angle_cross_of_wishes"
       ],
       "fear": "O tienes miedo a la responsabilidad y la evitas, o asumes demasiadas responsabilidades por miedo a perder a un ser querido, por ejemplo. O eres consciente de tu responsabilidad hacia los demás o no quieres aceptarla.",
-      "center": "esplénico",
+      "center": "splenic",
       "across": 27,
       "circuit": "tribal",
-      "subCircuit": "defensa"
+      "subCircuit": "defense"
     },
     "51": {
       "name": "La puerta del provocador",
@@ -1079,10 +1079,10 @@
         "right_angle_cross_of_penetration",
         "left_angle_cross_of_the_clarion"
       ],
-      "center": "corazón",
+      "center": "heart",
       "across": 25,
       "circuit": "individual",
-      "subCircuit": "centrado"
+      "subCircuit": "centering"
     },
     "52": {
       "name": "Puerta de la soledad",
@@ -1100,10 +1100,10 @@
         "juxtaposition_cross_of_stillness",
         "left_angle_cross_of_demands"
       ],
-      "center": "raíz",
+      "center": "root",
       "across": 9,
-      "circuit": "colectivo",
-      "subCircuit": "lógica"
+      "circuit": "collective",
+      "subCircuit": "logic"
     },
     "53": {
       "name": "Puerta de los comienzos",
@@ -1120,27 +1120,27 @@
         "right_angle_cross_of_penetration",
         "left_angle_cross_of_cycles"
       ],
-      "center": "raíz",
+      "center": "root",
       "across": 42,
-      "circuit": "colectivo",
-      "subCircuit": "abstracto"
+      "circuit": "collective",
+      "subCircuit": "abstract"
     },
     "54": {
-      "name": "!!!>>> Failed to fetch <<<!!!",
-      "description": "!!!>>> Failed to fetch <<<!!!",
+      "name": "Puerta de la Ambición",
+      "description": "Te esfuerzas por alcanzar el éxito y mejorar en todas las áreas de tu vida. Eres capaz de reconocer a quienes pueden ayudarte a progresar socialmente. Puedes ser demasiado asertivo en tu deseo de lograr un resultado determinado.",
       "lines": {
-        "1": "!!!>>> Failed to fetch <<<!!!",
-        "2": "!!!>>> Failed to fetch <<<!!!",
-        "3": "!!!>>> Failed to fetch <<<!!!",
-        "4": "!!!>>> Failed to fetch <<<!!!",
-        "5": "!!!>>> Failed to fetch <<<!!!",
-        "6": "Tus ambiciones están orientadas a llevarte a la cima al final. Rechazas cualquier acción que no conduzca a la libertad y la autorrealización."
+        "1": "Tienes éxito cuando tus ambiciones ayudan a otros a desarrollarse. Al ayudar a otros a desarrollarse, creces con ellos y alcanzas tus propias ambiciones. Si tus ambiciones se centran únicamente en ti mismo, creas resistencia en la vida.",
+        "2": "Tu comportamiento demuestra cautela, prudencia y previsión. Les haces saber a los demás: 'Esto quedará entre nosotros'. Esta actitud te hace querer a los demás y te ayuda a alcanzar tus ambiciones.",
+        "3": "En tu búsqueda del éxito, estableces conexiones secretas con personas que pueden ayudarte a alcanzar tu potencial. Recurres a estas acciones cuando surgen obstáculos insuperables.",
+        "4": "Tienes éxito cuando tus ambiciones sirven al bien de los demás y de la sociedad. Te esfuerzas por ayudar a otros a alcanzar las suyas.",
+        "5": "Los demás te ven como alguien influyente y dispuesto a ayudarlos. Estas son expectativas que quizás no cumplas.",
+        "6": "Tus ambiciones se centran en alcanzar la cima. Rechazas cualquier acción que no te lleve a la libertad y la autorrealización."
       },
       "crosses": [
         "right_angle_cross_of_penetration",
         "left_angle_cross_of_cycles"
       ],
-      "center": "raíz",
+      "center": "root",
       "across": 32,
       "circuit": "tribal",
       "subCircuit": "ego"
@@ -1163,10 +1163,10 @@
       "fear": "Tienes miedo de no encontrar aquello que llena tu vida de sentido, de pasión, despierta el espíritu y te llena emocionalmente.",
       "sexuality": "En una relación, siempre estás en un estado de jugar a la margarita: a veces te amo, a veces no me gustas. Parece que me encanta, pero parece que no. El estado de ánimo cambia constantemente. El impulso y el deseo sexual aparece y desaparece, como si nunca hubiera existido.",
       "love": "Amor misterioso, poético, emotivo, que no sabe si es amado. Amor no correspondido. Amor que no se puede tener.",
-      "center": "plexo_solar",
+      "center": "solar_plexus",
       "across": 39,
       "circuit": "individual",
-      "subCircuit": "conocimiento"
+      "subCircuit": "knowing"
     },
     "56": {
       "name": "Puerta de estimulación",
@@ -1183,10 +1183,10 @@
         "right_angle_cross_of_laws",
         "left_angle_cross_of_distraction"
       ],
-      "center": "garganta",
+      "center": "throat",
       "across": 11,
-      "circuit": "colectivo",
-      "subCircuit": "abstracto"
+      "circuit": "collective",
+      "subCircuit": "abstract"
     },
     "57": {
       "name": "Puerta del guerrero",
@@ -1204,10 +1204,10 @@
         "left_angle_cross_of_the_clarion"
       ],
       "fear": "Tienes miedo de lo que pueda traerte el mañana, tienes miedo del cambio, por eso te aferras a lo que te es familiar y familiar. Debido a esto, es posible que pierdas el momento de actuar aquí y ahora.",
-      "center": "esplénico",
+      "center": "splenic",
       "across": 10,
       "circuit": "individual",
-      "subCircuit": "integración"
+      "subCircuit": "integration"
     },
     "58": {
       "name": "Puerta de la vivacidad",
@@ -1226,10 +1226,10 @@
         "left_angle_cross_of_demands"
       ],
       "love": "Crear el amor ideal, a través de la presión para corregir y criticar, con el objetivo de mejorar. Decirle a una persona cómo ser mejor para mejorarla y hacer que todo sea mejor en general: eso es una forma de amor.",
-      "center": "raíz",
+      "center": "root",
       "across": 18,
-      "circuit": "colectivo",
-      "subCircuit": "lógica"
+      "circuit": "collective",
+      "subCircuit": "logic"
     },
     "59": {
       "name": "Puerta del poder",
@@ -1247,10 +1247,10 @@
         "left_angle_cross_of_spirit"
       ],
       "sexuality": "Para ti, el noviazgo y el sexo son una cacería. O te cazas a ti mismo o te dejas cazar. Es más importante para usted \"atrapar\" primero a la persona que le gusta (o dejarse \"atrapar\") y luego conocerse mejor. Es decir, primero sexo, luego intimidad. Provocas una situación de seducción, esperas a que la persona te diga “no”, tal vez no tenga tiempo... Es decir, tú haces el movimiento primero y ves qué pasa. Pero esto también es una fortaleza que puede convertirse en debilidad, porque aparece la incertidumbre: ¿debo perseguir, debo responder a esta persecución?",
-      "center": "sagrado",
+      "center": "sacred",
       "across": 6,
       "circuit": "tribal",
-      "subCircuit": "defensa"
+      "subCircuit": "defense"
     },
     "60": {
       "name": "Puerta de contracción",
@@ -1267,10 +1267,10 @@
         "right_angle_cross_of_laws",
         "left_angle_cross_of_distraction"
       ],
-      "center": "raíz",
+      "center": "root",
       "across": 3,
       "circuit": "individual",
-      "subCircuit": "conocimiento"
+      "subCircuit": "knowing"
     },
     "61": {
       "name": "Puerta del misterio",
@@ -1287,10 +1287,10 @@
         "right_angle_cross_of_maya",
         "left_angle_cross_of_obscuration"
       ],
-      "center": "cabeza",
+      "center": "head",
       "across": 24,
       "circuit": "individual",
-      "subCircuit": "conocimiento"
+      "subCircuit": "knowing"
     },
     "62": {
       "name": "Detalles de la puerta",
@@ -1307,10 +1307,10 @@
         "right_angle_cross_of_maya",
         "left_angle_cross_of_obscuration"
       ],
-      "center": "garganta",
+      "center": "throat",
       "across": 17,
-      "circuit": "colectivo",
-      "subCircuit": "lógica"
+      "circuit": "collective",
+      "subCircuit": "logic"
     },
     "63": {
       "name": "Puerta de la duda",
@@ -1327,10 +1327,10 @@
         "right_angle_cross_of_consciousness",
         "left_angle_cross_of_dominion"
       ],
-      "center": "cabeza",
+      "center": "head",
       "across": 4,
-      "circuit": "colectivo",
-      "subCircuit": "lógica"
+      "circuit": "collective",
+      "subCircuit": "logic"
     },
     "64": {
       "name": "Puerta del egoísta",
@@ -1347,10 +1347,10 @@
         "right_angle_cross_of_consciousness",
         "left_angle_cross_of_dominion"
       ],
-      "center": "cabeza",
+      "center": "head",
       "across": 47,
-      "circuit": "colectivo",
-      "subCircuit": "abstracto"
+      "circuit": "collective",
+      "subCircuit": "abstract"
     }
   },
   "channels": {
@@ -1362,19 +1362,19 @@
       "name": "Ahorro",
       "description": "Sabes cómo cuidar y criar a tus hijos. Proteges a la tribu a través del apoyo social y el cuidado de tus vecinos.",
       "circuit": "tribal",
-      "subCircuit": "defensa"
+      "subCircuit": "defense"
     },
     "28-38": {
       "name": "Lucha",
       "description": "Luchas por un objetivo, defiendes tus posiciones. Muestra el poder de la resistencia individual en la lucha por los propios valores e ideales. Conecta la puerta 38 de “Oposición” del centro raíz y la puerta 28 de “Superioridad” del centro del Bazo. Asociado a la búsqueda del sentido de la vida. Este es el único canal asociado a la búsqueda de formas de alcanzar los objetivos, que es la base del desarrollo humano. Una persona así siempre está buscando una meta. La Puerta 28 es vigilancia intuitiva, miedo a la muerte, juego y amor al riesgo, que se llenan con la presión de la Puerta 38, obligándote a buscar un camino nuevo y propio. Si miras la sexta línea de la puerta 28, \"Radiance of Glory\", verás los extremos de la búsqueda de metas: viajar hasta la muerte, traspasar los límites hasta el final. También en la sexta línea de la puerta 28 existe un potencial de suicidio si falla la búsqueda de significado. No hay mayor desaliento que la incapacidad de una persona con el canal 28-38 para encontrar el propósito y el significado de su vida. No puede darse por vencido durante mucho tiempo, renunciar a su objetivo, porque esto, además de todo, también es un canal de terquedad.",
       "circuit": "individual",
-      "subCircuit": "conocimiento"
+      "subCircuit": "knowing"
     },
     "30-41": {
       "name": "Reconocimiento",
       "description": "Sientes que la vida y los sueños se hacen realidad. El deseo como base para la búsqueda de nuevas experiencias",
-      "circuit": "colectivo",
-      "subCircuit": "abstracto"
+      "circuit": "collective",
+      "subCircuit": "abstract"
     },
     "33-13": {
       "name": "Narrador de historias",
@@ -1384,13 +1384,13 @@
       "name": "Mutación",
       "description": "Puedes cambiarte a ti mismo y cambiar a otras personas.",
       "circuit": "individual",
-      "subCircuit": "conocimiento"
+      "subCircuit": "knowing"
     },
     "18-58": {
       "name": "Juicio",
       "description": "Eres una persona crítica, ves lo que se puede mejorar, expresas tu criterio. Buscar imperfecciones en las formas circundantes con el fin de corregirlas.",
-      "circuit": "colectivo",
-      "subCircuit": "lógica"
+      "circuit": "collective",
+      "subCircuit": "logic"
     },
     "55-39": {
       "name": "Emoción",
@@ -1399,14 +1399,14 @@
     "42-53": {
       "name": "Maduración",
       "description": "Puede iniciar y finalizar varios procesos. Aplicación equilibrada de fuerzas para un desarrollo más sostenible.",
-      "circuit": "colectivo",
-      "subCircuit": "abstracto"
+      "circuit": "collective",
+      "subCircuit": "abstract"
     },
     "2-14": {
       "name": "Latido del corazón",
       "description": "Tienes tu propia dirección innovadora, que puede conducirte a la prosperidad material. Este canal se conoce como el Guardián de las Llaves. Este es uno de los canales \"tántricos\" que potencialmente transforma las energías de la Fuerza Sacra, Sexual y Vital en la expresión del Ser Superior a través del Amor. Funciona como canal Generador. La Puerta 14 es la puerta de las habilidades sostenibles, principalmente en el campo de los recursos materiales, y la Puerta 2 es la puerta del sentido de dirección y propósito. Juntos, le dan a este canal el potencial de iniciar referencias de otras personas. La puerta 2 es predominantemente una puerta Yin (femenina) y el canal de pulso en sí es individual y, por lo tanto, cambiable y no funciona constantemente. Un individuo siempre inicia a otros con el ejemplo de lo que hace. En cualquier desastre, una persona con ese canal se levantará, pedirá atención y dirá: \"Sé lo que hay que hacer. Si quieres, puedes unirte a mí\". Y luego se irá, sin importar si alguien lo sigue o no. Recuerde, esta iniciación no está asociada con el apoyo o el compartir, ya que el Canal no es colectivo ni tribal. De manera puramente formal, este canal dice: \"Puedo ayudarte a sobrevivir, pero debes confiar en ti mismo. No voy a salvarte. Sólo quiero mostrarte lo que voy a hacer. Voy a ir por este camino\".",
       "circuit": "individual",
-      "subCircuit": "conocimiento"
+      "subCircuit": "knowing"
     },
     "32-54": {
       "name": "Transformación",
@@ -1429,14 +1429,14 @@
     "11-56": {
       "name": "Curiosidad",
       "description": "Eres una persona curiosa, interesada en diferentes cosas, viajas, te encanta escribir y dibujar. El perfeccionismo como base para la búsqueda de la verdad en una corriente de caos.",
-      "circuit": "colectivo",
-      "subCircuit": "abstracto"
+      "circuit": "collective",
+      "subCircuit": "abstract"
     },
     "9-52": {
       "name": "Concentración",
       "description": "Puedes concentrarte inmóvil en los detalles. Acumulación de energía y recursos para logros colectivos.",
-      "circuit": "colectivo",
-      "subCircuit": "lógica"
+      "circuit": "collective",
+      "subCircuit": "logic"
     },
     "31-7": {
       "name": "Alfa",
@@ -1461,32 +1461,32 @@
     "16-48": {
       "name": "Canal de talento",
       "description": "Te entusiasma compartir tus habilidades y talentos, expresando tu gusto. Compromiso con el desarrollo y mejora de tus habilidades.",
-      "circuit": "colectivo",
-      "subCircuit": "lógica"
+      "circuit": "collective",
+      "subCircuit": "logic"
     },
     "25-51": {
       "name": "Iniciación",
       "description": "Tomas la iniciativa que inspira a otros con tu determinación.",
       "circuit": "individual",
-      "subCircuit": "centrado"
+      "subCircuit": "centering"
     },
     "20-57": {
       "name": "Conocimiento",
       "description": "Conciencia intuitiva en el momento presente. Tienes una buena intuición en la que puedes confiar.",
       "circuit": "individual",
-      "subCircuit": "integración"
+      "subCircuit": "integration"
     },
     "20-34": {
       "name": "Carisma",
       "description": "Muestras carisma, ejerces tu poder individual de influencia en el momento presente.",
       "circuit": "individual",
-      "subCircuit": "integración"
+      "subCircuit": "integration"
     },
     "34-57": {
       "name": "Fortaleza",
       "description": "Tienes una conciencia intuitiva del poder de tu influencia y supervivencia.",
       "circuit": "individual",
-      "subCircuit": "integración"
+      "subCircuit": "integration"
     },
     "15-5": {
       "name": "Ritmo",
@@ -1519,14 +1519,14 @@
     "17-62": {
       "name": "Aceptación",
       "description": "Eres un buen organizador. Ve la integridad a través de los detalles.",
-      "circuit": "colectivo",
-      "subCircuit": "lógica"
+      "circuit": "collective",
+      "subCircuit": "logic"
     },
     "10-57": {
       "name": "forma perfecta",
       "description": "Tienes un comportamiento basado en el respeto por uno mismo y el amor propio. Comprensión intuitiva de su lugar en la jerarquía de la sociedad.",
       "circuit": "individual",
-      "subCircuit": "integración"
+      "subCircuit": "integration"
     },
     "46-29": {
       "name": "Apertura",
