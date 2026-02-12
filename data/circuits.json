@@ -1,0 +1,155 @@
+{
+    "circuits": {
+        "individual": {
+            "name": "Индивидуальный контур",
+            "description": "Фокусируется на личной трансформации, уникальности, самореализации и привнесении мутаций в мир. Ключевое слово: Трансформация. Сенсорная ориентация: Акустическая.",
+            "sub_circuits": {
+                "knowing": {
+                    "name": "Контур Знания",
+                    "description": "Инсайты, внутренняя правда, оригинальность мышления и глубокая креативность."
+                },
+                "centering": {
+                    "name": "Контур Центрирования",
+                    "description": "Опора на себя, безусловная любовь к себе и следование своей уникальной природе."
+                },
+                "integration": {
+                    "name": "Каналы Интеграции",
+                    "description": "Базовая энергия выживания, самосохранения и адаптации в моменте ('здесь и сейчас')."
+                }
+            }
+        },
+        "collective": {
+            "name": "Коллективный контур",
+            "description": "Направлен на передачу опыта, обучение и развитие человечества. Ключевое слово: Изменение. Сенсорная ориентация: Визуальная.",
+            "sub_circuits": {
+                "logic": {
+                    "name": "Контур Понимания (Логический)",
+                    "description": "Фокусируется на выявлении паттернов, тестировании гипотез и создании логических решений для будущего."
+                },
+                "abstract": {
+                    "name": "Контур Ощущения (Абстрактный)",
+                    "description": "Направлен на осмысление прошлого опыта, рефлексию и циклическое развитие."
+                }
+            }
+        },
+        "tribal": {
+            "name": "Племенной контур",
+            "description": "Фокусируется на семье, поддержке, защите ресурсов и выживании сообщества. Ключевое слово: Традиция. Сенсорная ориентация: Тактильная и обонятельная.",
+            "sub_circuits": {
+                "ego": {
+                    "name": "Контур Эго",
+                    "description": "Материальное обеспечение племени, договоры, бизнес и взаимная поддержка."
+                },
+                "defense": {
+                    "name": "Контур Защиты",
+                    "description": "Забота о близких, воспитание детей и поддержание стабильности сообщества."
+                }
+            }
+        }
+    },
+    "gateMapping": {
+        "1": "individual/knowing",
+        "2": "individual/knowing",
+        "3": "individual/knowing",
+        "4": "collective/logic",
+        "5": "collective/logic",
+        "6": "tribal/defense",
+        "7": "collective/logic",
+        "8": "individual/knowing",
+        "9": "collective/logic",
+        "10": "individual/integration",
+        "11": "collective/abstract",
+        "12": "individual/knowing",
+        "13": "collective/abstract",
+        "14": "individual/knowing",
+        "15": "collective/logic",
+        "16": "collective/logic",
+        "17": "collective/logic",
+        "18": "collective/logic",
+        "19": "tribal/ego",
+        "20": "individual/integration",
+        "21": "tribal/ego",
+        "22": "individual/knowing",
+        "23": "individual/knowing",
+        "24": "individual/knowing",
+        "25": "individual/centering",
+        "26": "tribal/ego",
+        "27": "tribal/defense",
+        "28": "individual/knowing",
+        "29": "collective/abstract",
+        "30": "collective/abstract",
+        "31": "collective/logic",
+        "32": "tribal/ego",
+        "33": "collective/abstract",
+        "34": "individual/integration",
+        "35": "collective/abstract",
+        "36": "collective/abstract",
+        "37": "tribal/ego",
+        "38": "individual/knowing",
+        "39": "individual/knowing",
+        "40": "tribal/ego",
+        "41": "collective/abstract",
+        "42": "collective/abstract",
+        "43": "individual/knowing",
+        "44": "tribal/ego",
+        "45": "tribal/ego",
+        "46": "collective/abstract",
+        "47": "collective/abstract",
+        "48": "collective/logic",
+        "49": "tribal/ego",
+        "50": "tribal/defense",
+        "51": "individual/centering",
+        "52": "collective/logic",
+        "53": "collective/abstract",
+        "54": "tribal/ego",
+        "55": "individual/knowing",
+        "56": "collective/abstract",
+        "57": "individual/integration",
+        "58": "collective/logic",
+        "59": "tribal/defense",
+        "60": "individual/knowing",
+        "61": "individual/knowing",
+        "62": "collective/logic",
+        "63": "collective/logic",
+        "64": "collective/abstract"
+    },
+    "channelMapping": {
+        "1-8": "individual/knowing",
+        "2-14": "individual/knowing",
+        "3-60": "individual/knowing",
+        "12-22": "individual/knowing",
+        "23-43": "individual/knowing",
+        "24-61": "individual/knowing",
+        "28-38": "individual/knowing",
+        "39-55": "individual/knowing",
+        "10-25": "individual/centering",
+        "25-51": "individual/centering",
+        "10-57": "individual/integration",
+        "10-20": "individual/integration",
+        "20-34": "individual/integration",
+        "20-57": "individual/integration",
+        "34-57": "individual/integration",
+        "34-10": "individual/integration",
+        "4-63": "collective/logic",
+        "7-31": "collective/logic",
+        "9-52": "collective/logic",
+        "5-15": "collective/logic",
+        "16-48": "collective/logic",
+        "17-62": "collective/logic",
+        "18-58": "collective/logic",
+        "11-56": "collective/abstract",
+        "13-33": "collective/abstract",
+        "29-46": "collective/abstract",
+        "30-41": "collective/abstract",
+        "35-36": "collective/abstract",
+        "42-53": "collective/abstract",
+        "47-64": "collective/abstract",
+        "19-49": "tribal/ego",
+        "21-45": "tribal/ego",
+        "26-44": "tribal/ego",
+        "32-54": "tribal/ego",
+        "37-40": "tribal/ego",
+        "6-59": "tribal/defense",
+        "27-50": "tribal/defense"
+    }
+}
