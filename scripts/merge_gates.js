@@ -97,7 +97,7 @@ const CROSSES_MAP = {
     'left_angle_cross_of_образования': 'left_angle_cross_of_education',
     'left_angle_cross_of_бунта': 'left_angle_cross_of_upheaval',
     'left_angle_cross_of_дуальности': 'left_angle_cross_of_duality',
-    'left_angle_cross_of_стремления': 'left_angle_cross_of_endeavour',
+    'left_angle_cross_of_стремления': 'left_angle_cross_of_endeavor',
     'left_angle_cross_of_инкарнации': 'left_angle_cross_of_incarnation',
     'left_angle_cross_of_конфронтации': 'left_angle_cross_of_confrontation',
     'left_angle_cross_of_выравнивания': 'left_angle_cross_of_alignment',
@@ -500,11 +500,24 @@ function merge() {
         {
             Object.keys(db.channels).forEach(id => {
                 db.channels[id].description = cleanDescription(db.channels[id].description);
-                if (circuitsData.channelMapping && circuitsData.channelMapping[id])
+                if (circuitsData.channelMapping)
                 {
-                    const [circuit, sub] = circuitsData.channelMapping[id].split('/');
-                    db.channels[id].circuit = circuit;
-                    db.channels[id].subCircuit = sub;
+                    let mapping = circuitsData.channelMapping[id];
+                    if (!mapping)
+                    {
+                        const [g1, g2] = id.split('-');
+                        if (g1 && g2)
+                        {
+                            mapping = circuitsData.channelMapping[`${g2}-${g1}`];
+                        }
+                    }
+
+                    if (mapping)
+                    {
+                        const [circuit, sub] = mapping.split('/');
+                        db.channels[id].circuit = circuit;
+                        db.channels[id].subCircuit = sub;
+                    }
                 }
             });
         }
