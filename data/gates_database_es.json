@@ -1356,7 +1356,9 @@
   "channels": {
     "10-34": {
       "name": "Estudiar",
-      "description": "Sigues tus creencias y respuestas. Autoconfianza que inspira a los demás. Eres una persona creativa y no te gusta que te digan qué hacer y cómo hacerlo."
+      "description": "Sigues tus creencias y respuestas. Autoconfianza que inspira a los demás. Eres una persona creativa y no te gusta que te digan qué hacer y cómo hacerlo.",
+      "circuit": "individual",
+      "subCircuit": "integration"
     },
     "27-50": {
       "name": "Ahorro",
@@ -1378,7 +1380,9 @@
     },
     "33-13": {
       "name": "Narrador de historias",
-      "description": "Eres un narrador de historias que comparten experiencias de vida. Deseos de escuchar y retirarse para la reflexión y la experiencia. Estas personas nacen para impartir la sabiduría de la experiencia individual a los demás. Su fuerza reside en aprender del pasado y transmitir lo aprendido para que otros no tengan que cometer los mismos errores. Para estas personas el pasado es muy importante. Ya sean historiadores, dramaturgos o políticos, estas personas son \"cronistas\" natos; esto puede manifestarse de diversas formas, desde coleccionar álbumes de fotografías hasta llevar cuentas y diarios. Las personas con este canal muy a menudo escuchan y saben más de lo que dejan entrever. Es posible que tengan buena memoria para cierta información. En una organización, estas son las personas a las que acude cuando necesita saber qué sucede detrás de escena. Gracias a esta cualidad, a menudo se les busca como líderes."
+      "description": "Eres un narrador de historias que comparten experiencias de vida. Deseos de escuchar y retirarse para la reflexión y la experiencia. Estas personas nacen para impartir la sabiduría de la experiencia individual a los demás. Su fuerza reside en aprender del pasado y transmitir lo aprendido para que otros no tengan que cometer los mismos errores. Para estas personas el pasado es muy importante. Ya sean historiadores, dramaturgos o políticos, estas personas son \"cronistas\" natos; esto puede manifestarse de diversas formas, desde coleccionar álbumes de fotografías hasta llevar cuentas y diarios. Las personas con este canal muy a menudo escuchan y saben más de lo que dejan entrever. Es posible que tengan buena memoria para cierta información. En una organización, estas son las personas a las que acude cuando necesita saber qué sucede detrás de escena. Gracias a esta cualidad, a menudo se les busca como líderes.",
+      "circuit": "collective",
+      "subCircuit": "abstract"
     },
     "3-60": {
       "name": "Mutación",
@@ -1394,7 +1398,9 @@
     },
     "55-39": {
       "name": "Emoción",
-      "description": "Eres romántico y emocional. Profundidad creativa de los sentimientos experimentados."
+      "description": "Eres romántico y emocional. Profundidad creativa de los sentimientos experimentados.",
+      "circuit": "individual",
+      "subCircuit": "knowing"
     },
     "42-53": {
       "name": "Maduración",
@@ -1416,15 +1422,21 @@
     },
     "40-37": {
       "name": "Comunidad",
-      "description": "Proporcionas apoyo familiar. Solo él puede garantizar la supervivencia de la tribu. Este es el “acuerdo” que subyace a todo lo relacionado con el género: “Yo lo haré por ti si tú lo haces por mí”. 40-37 son parte de un flujo táctil de sentimientos en el que se esperan y respetan los apretones de manos, los abrazos fuertes y las transacciones. En pocas palabras, toda persona se siente sola. Este canal corrige la situación, permitiéndonos crear comunidades en las que cada uno tiene su lugar y función, y recibe honor y respeto. Si desde el centro del bazo fluye la energía de la prosperidad individual, entonces aquí, desde el lado del centro emocional, surge la energía de la unificación, la actividad vital conjunta. Aquí invertimos en toda la comunidad y en cada individuo. Apoyamos a la sociedad con valores que no se pueden vender por dinero. La unión no es como la jerarquía. Nadie se siente superior o inferior, porque cada uno sacrifica voluntariamente lo que puede para unirse y sentirse parte de un todo común."
+      "description": "Proporcionas apoyo familiar. Solo él puede garantizar la supervivencia de la tribu. Este es el “acuerdo” que subyace a todo lo relacionado con el género: “Yo lo haré por ti si tú lo haces por mí”. 40-37 son parte de un flujo táctil de sentimientos en el que se esperan y respetan los apretones de manos, los abrazos fuertes y las transacciones. En pocas palabras, toda persona se siente sola. Este canal corrige la situación, permitiéndonos crear comunidades en las que cada uno tiene su lugar y función, y recibe honor y respeto. Si desde el centro del bazo fluye la energía de la prosperidad individual, entonces aquí, desde el lado del centro emocional, surge la energía de la unificación, la actividad vital conjunta. Aquí invertimos en toda la comunidad y en cada individuo. Apoyamos a la sociedad con valores que no se pueden vender por dinero. La unión no es como la jerarquía. Nadie se siente superior o inferior, porque cada uno sacrifica voluntariamente lo que puede para unirse y sentirse parte de un todo común.",
+      "circuit": "tribal",
+      "subCircuit": "ego"
     },
     "61-24": {
       "name": "Consciencia",
-      "description": "Te sientas y filosofas en silencio o solo"
+      "description": "Te sientas y filosofas en silencio o solo",
+      "circuit": "individual",
+      "subCircuit": "knowing"
     },
     "49-19": {
       "name": "Síntesis",
-      "description": "Te esfuerzas por ser justo y alinear las necesidades de la tribu con tus principios más elevados. Siempre estás intentando hacer el bien para todos. En el “falso yo” es sacrificarse y actuar según sus principios por el bien de la familia. Es en este canal donde la Estrategia correcta es la base para entablar cualquier tipo de relación o contrato con otra persona. Estas personas nacen para aprender a ser sensibles y equilibrar sus propias necesidades con las de los demás. Pondrán mucho empeño en sus relaciones y pueden ser muy sensibles o insensibles, dependiendo de su longitud de onda. Este es un canal de proyección emocional, lo que significa que idealmente las personas deberían ser validadas por los demás antes de entablar cualquier relación. Deben dejar suficiente tiempo y espacio para que se desarrolle el proceso natural del noviazgo con el fin de lograr claridad emocional antes de asumir compromisos de cualquier tipo. Dado que este canal es la raíz del flujo del Toque, las personas con este canal requieren un contacto cercano con los demás. Dependiendo de si están en lo alto de la ola o en lo bajo, es posible que quieran abrazar a su pareja o pegarle. Este canal tiene sus raíces en la comida, el medio ambiente y la comunidad. Estas personas necesitan comer regularmente con otras personas. La comida es de gran importancia para ellos. Sexualmente, es el cauce de los novios como arquetipo. Es este canal de la necesidad básica de la Tribu de refugio, recursos garantizados (alimentos, protección infantil, seguridad) y recursos básicos. Puedes recibir apoyo de estos recursos si “amas, honras y obedeces”, es decir: honras a tu Tribu, amas las mismas cosas, oras al mismo Dios. Apoyar este canal es lo más complicado porque eso es lo que mantiene unida a la Tribu. Tan pegajoso que si no lo aprecias enfermarás. El primer acuerdo básico de la Tribu es que debes aceptar apoyar a todos los demás miembros de la Tribu y ellos te apoyarán a ti. Si no lo hace, será condenado al ostracismo y expulsado. No tendrás refugio ni comida, así que será mejor que obedezcas: esa es la esencia del trato."
+      "description": "Te esfuerzas por ser justo y alinear las necesidades de la tribu con tus principios más elevados. Siempre estás intentando hacer el bien para todos. En el “falso yo” es sacrificarse y actuar según sus principios por el bien de la familia. Es en este canal donde la Estrategia correcta es la base para entablar cualquier tipo de relación o contrato con otra persona. Estas personas nacen para aprender a ser sensibles y equilibrar sus propias necesidades con las de los demás. Pondrán mucho empeño en sus relaciones y pueden ser muy sensibles o insensibles, dependiendo de su longitud de onda. Este es un canal de proyección emocional, lo que significa que idealmente las personas deberían ser validadas por los demás antes de entablar cualquier relación. Deben dejar suficiente tiempo y espacio para que se desarrolle el proceso natural del noviazgo con el fin de lograr claridad emocional antes de asumir compromisos de cualquier tipo. Dado que este canal es la raíz del flujo del Toque, las personas con este canal requieren un contacto cercano con los demás. Dependiendo de si están en lo alto de la ola o en lo bajo, es posible que quieran abrazar a su pareja o pegarle. Este canal tiene sus raíces en la comida, el medio ambiente y la comunidad. Estas personas necesitan comer regularmente con otras personas. La comida es de gran importancia para ellos. Sexualmente, es el cauce de los novios como arquetipo. Es este canal de la necesidad básica de la Tribu de refugio, recursos garantizados (alimentos, protección infantil, seguridad) y recursos básicos. Puedes recibir apoyo de estos recursos si “amas, honras y obedeces”, es decir: honras a tu Tribu, amas las mismas cosas, oras al mismo Dios. Apoyar este canal es lo más complicado porque eso es lo que mantiene unida a la Tribu. Tan pegajoso que si no lo aprecias enfermarás. El primer acuerdo básico de la Tribu es que debes aceptar apoyar a todos los demás miembros de la Tribu y ellos te apoyarán a ti. Si no lo hace, será condenado al ostracismo y expulsado. No tendrás refugio ni comida, así que será mejor que obedezcas: esa es la esencia del trato.",
+      "circuit": "tribal",
+      "subCircuit": "ego"
     },
     "11-56": {
       "name": "Curiosidad",
@@ -1440,23 +1452,33 @@
     },
     "31-7": {
       "name": "Alfa",
-      "description": "Puedes conducir a un futuro mejor. Un organizador competente con ambiciones de liderazgo innatas. Ve procesos lógicos y patrones estables en los que puede confiar. Un líder que quiere liderar, que quiere influir y dirigir, pero en la vida mala de este canal la persona quiere influir, y en la buena se preocupa sinceramente por quienes dirige y trata de comprender."
+      "description": "Puedes conducir a un futuro mejor. Un organizador competente con ambiciones de liderazgo innatas. Ve procesos lógicos y patrones estables en los que puede confiar. Un líder que quiere liderar, que quiere influir y dirigir, pero en la vida mala de este canal la persona quiere influir, y en la buena se preocupa sinceramente por quienes dirige y trata de comprender.",
+      "circuit": "collective",
+      "subCircuit": "logic"
     },
     "59-6": {
       "name": "Emparejamiento",
-      "description": "Puedes entrar en conflicto en aras de una relación satisfactoria. Proteges a la tribu manteniendo su número."
+      "description": "Puedes entrar en conflicto en aras de una relación satisfactoria. Proteges a la tribu manteniendo su número.",
+      "circuit": "tribal",
+      "subCircuit": "defense"
     },
     "43-23": {
       "name": "Estructuración",
-      "description": "Usted expresa su conocimiento individual y estructura la información. El conocimiento puede ser genial o extraño."
+      "description": "Usted expresa su conocimiento individual y estructura la información. El conocimiento puede ser genial o extraño.",
+      "circuit": "individual",
+      "subCircuit": "knowing"
     },
     "63-4": {
       "name": "Lógicas",
-      "description": "Puede encontrar respuestas lógicas a las preguntas. Una mente inspirada para encontrar respuestas a sus propias dudas."
+      "description": "Puede encontrar respuestas lógicas a las preguntas. Una mente inspirada para encontrar respuestas a sus propias dudas.",
+      "circuit": "collective",
+      "subCircuit": "logic"
     },
     "8-1": {
       "name": "Inspiración",
-      "description": "Puedes fortalecer a otras personas con tu inspiración y creatividad. Estas personas tienen creatividad natural y talentos para expresarse de una manera única. Son “individuos” que empoderan a otros simplemente por ser diferentes y poder inspirar. Este es un canal creativo. Estas personas pueden traer al mundo una creatividad tan extraordinaria que pueden convertirse en modelos a seguir que inspiren a otros a ser igual de atrevidos. Al igual que 13-33 y 7-31, este es un canal de liderazgo, aunque a estas personas no les preocupa especialmente que los sigan. Simplemente representan un ejemplo de una persona que sabe hacia dónde se dirige. Estas personas pueden influir en los demás creando una maravillosa sensación de presencia creativa e inusual; por ejemplo, pueden destacar entre la multitud por su apariencia o su forma de vestir. Para una persona con canal 1-8 no hay nada peor que le digan que se parece a alguien. ¡Están diseñados para ser únicos! Necesitan ser reconocidos e invitados a expresar su singularidad para recibir el respeto que merecen. La inspiración es la expresión central del Tema de Empoderamiento Individual. Como energía vital de la articulación, 8-1 es un modelo creativo en la forma en que expresa su contribución o la contribución que realiza a través de su expresión. La individualidad tiene una capacidad limitada para influir en la sociedad. Para poder empoderar a otros con su Aporte, una persona debe ser muy hábil en cómo expresarlo."
+      "description": "Puedes fortalecer a otras personas con tu inspiración y creatividad. Estas personas tienen creatividad natural y talentos para expresarse de una manera única. Son “individuos” que empoderan a otros simplemente por ser diferentes y poder inspirar. Este es un canal creativo. Estas personas pueden traer al mundo una creatividad tan extraordinaria que pueden convertirse en modelos a seguir que inspiren a otros a ser igual de atrevidos. Al igual que 13-33 y 7-31, este es un canal de liderazgo, aunque a estas personas no les preocupa especialmente que los sigan. Simplemente representan un ejemplo de una persona que sabe hacia dónde se dirige. Estas personas pueden influir en los demás creando una maravillosa sensación de presencia creativa e inusual; por ejemplo, pueden destacar entre la multitud por su apariencia o su forma de vestir. Para una persona con canal 1-8 no hay nada peor que le digan que se parece a alguien. ¡Están diseñados para ser únicos! Necesitan ser reconocidos e invitados a expresar su singularidad para recibir el respeto que merecen. La inspiración es la expresión central del Tema de Empoderamiento Individual. Como energía vital de la articulación, 8-1 es un modelo creativo en la forma en que expresa su contribución o la contribución que realiza a través de su expresión. La individualidad tiene una capacidad limitada para influir en la sociedad. Para poder empoderar a otros con su Aporte, una persona debe ser muy hábil en cómo expresarlo.",
+      "circuit": "individual",
+      "subCircuit": "knowing"
     },
     "16-48": {
       "name": "Canal de talento",
@@ -1490,7 +1512,9 @@
     },
     "15-5": {
       "name": "Ritmo",
-      "description": "Tienes el don de involucrar a los demás en tu ritmo de vida."
+      "description": "Tienes el don de involucrar a los demás en tu ritmo de vida.",
+      "circuit": "collective",
+      "subCircuit": "logic"
     },
     "21-45": {
       "name": "Dinero",
@@ -1506,15 +1530,21 @@
     },
     "22-12": {
       "name": "Franqueza",
-      "description": "Influyes en los demás a través del poder de tus sentimientos y emociones expresados."
+      "description": "Influyes en los demás a través del poder de tus sentimientos y emociones expresados.",
+      "circuit": "individual",
+      "subCircuit": "knowing"
     },
     "20-10": {
       "name": "Despertar",
-      "description": "Tienes tu mejor comportamiento y te realizas en el momento presente."
+      "description": "Tienes tu mejor comportamiento y te realizas en el momento presente.",
+      "circuit": "individual",
+      "subCircuit": "integration"
     },
     "36-35": {
       "name": "fugacidad",
-      "description": "Eres un experto en todos los oficios y perfeccionas tu oficio. Búsqueda de nuevas experiencias a través de una variedad de sensaciones."
+      "description": "Eres un experto en todos los oficios y perfeccionas tu oficio. Búsqueda de nuevas experiencias a través de una variedad de sensaciones.",
+      "circuit": "collective",
+      "subCircuit": "abstract"
     },
     "17-62": {
       "name": "Aceptación",
@@ -1530,11 +1560,15 @@
     },
     "46-29": {
       "name": "Apertura",
-      "description": "Miras fuera de la familia. Está interesado en otra cosa. Busque nuevas experiencias a través del ciclo del éxito y el fracaso. Canal generador. Conecta la puerta 46 del “Pushing Up” del centro sacro y la puerta 29 del centro j “Ilimitado”. En la tradición del I Ching, la Puerta 29 se conoce como la Puerta del Infinito. Esto es profundidad en profundidad. La puerta 46 empuja hacia arriba hacia el Reino de los Cielos y tiene la capacidad de estar físicamente en el lugar y momento correctos. La puerta 29 es la puerta de la estabilidad, que se fortalece con la respuesta “sí” a lo que es verdad. El infinito de la puerta 29 aquí se refiere a la energía infinita del centro sacro, como un pozo de energía sin fondo. Ubicada al otro lado del canal, la Puerta 46 es la altura infinita del reino de los cielos. Las personas con Puerta 29 tienen una tendencia natural a decir “sí” a casi cualquier situación, actuando posteriormente con plena energía. Por lo tanto, es importante que actúen desde su autoridad interior, en cuyo caso pueden tener éxito donde otros no pueden. Quizás la lección más importante para los 29/46 es que cuando hacen una experiencia a partir de una respuesta puramente sagrada, necesitan estar completamente inmersos en el proceso, sin prestar atención a otras decisiones, especialmente mentales. Este es su éxito."
+      "description": "Miras fuera de la familia. Está interesado en otra cosa. Busque nuevas experiencias a través del ciclo del éxito y el fracaso. Canal generador. Conecta la puerta 46 del “Pushing Up” del centro sacro y la puerta 29 del centro j “Ilimitado”. En la tradición del I Ching, la Puerta 29 se conoce como la Puerta del Infinito. Esto es profundidad en profundidad. La puerta 46 empuja hacia arriba hacia el Reino de los Cielos y tiene la capacidad de estar físicamente en el lugar y momento correctos. La puerta 29 es la puerta de la estabilidad, que se fortalece con la respuesta “sí” a lo que es verdad. El infinito de la puerta 29 aquí se refiere a la energía infinita del centro sacro, como un pozo de energía sin fondo. Ubicada al otro lado del canal, la Puerta 46 es la altura infinita del reino de los cielos. Las personas con Puerta 29 tienen una tendencia natural a decir “sí” a casi cualquier situación, actuando posteriormente con plena energía. Por lo tanto, es importante que actúen desde su autoridad interior, en cuyo caso pueden tener éxito donde otros no pueden. Quizás la lección más importante para los 29/46 es que cuando hacen una experiencia a partir de una respuesta puramente sagrada, necesitan estar completamente inmersos en el proceso, sin prestar atención a otras decisiones, especialmente mentales. Este es su éxito.",
+      "circuit": "collective",
+      "subCircuit": "abstract"
     },
     "64-47": {
       "name": "Abstracción",
-      "description": "Tienes una mente activa, inspirada para buscar respuestas en tus sentidos y experiencias."
+      "description": "Tienes una mente activa, inspirada para buscar respuestas en tus sentidos y experiencias.",
+      "circuit": "collective",
+      "subCircuit": "abstract"
     }
   },
   "centers": {

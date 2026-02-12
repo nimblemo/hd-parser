@@ -1356,7 +1356,9 @@
   "channels": {
     "10-34": {
       "name": "Study",
-      "description": "You follow your beliefs and responses. "
+      "description": "You follow your beliefs and responses. ",
+      "circuit": "individual",
+      "subCircuit": "integration"
     },
     "27-50": {
       "name": "Saving",
@@ -1378,7 +1380,9 @@
     },
     "33-13": {
       "name": "Story Teller",
-      "description": "You are a teller of stories that share life experiences. "
+      "description": "You are a teller of stories that share life experiences. ",
+      "circuit": "collective",
+      "subCircuit": "abstract"
     },
     "3-60": {
       "name": "Mutation",
@@ -1394,7 +1398,9 @@
     },
     "55-39": {
       "name": "Emotionality",
-      "description": "You are romantic and emotional. "
+      "description": "You are romantic and emotional. ",
+      "circuit": "individual",
+      "subCircuit": "knowing"
     },
     "42-53": {
       "name": "Maturation",
@@ -1416,15 +1422,21 @@
     },
     "40-37": {
       "name": "Community",
-      "description": "You provide family support. "
+      "description": "You provide family support. ",
+      "circuit": "tribal",
+      "subCircuit": "ego"
     },
     "61-24": {
       "name": "Mindfulness",
-      "description": "You sit and philosophize in silence or alone"
+      "description": "You sit and philosophize in silence or alone",
+      "circuit": "individual",
+      "subCircuit": "knowing"
     },
     "49-19": {
       "name": "Synthesis",
-      "description": "You strive to be fair and align the needs of the tribe with your highest principles. "
+      "description": "You strive to be fair and align the needs of the tribe with your highest principles. ",
+      "circuit": "tribal",
+      "subCircuit": "ego"
     },
     "11-56": {
       "name": "Curiosity",
@@ -1440,23 +1452,33 @@
     },
     "31-7": {
       "name": "Alpha",
-      "description": "You can lead to a better future. "
+      "description": "You can lead to a better future. ",
+      "circuit": "collective",
+      "subCircuit": "logic"
     },
     "59-6": {
       "name": "Pairing",
-      "description": "You can conflict for the sake of a satisfying relationship. "
+      "description": "You can conflict for the sake of a satisfying relationship. ",
+      "circuit": "tribal",
+      "subCircuit": "defense"
     },
     "43-23": {
       "name": "Structuring",
-      "description": "You express your individual knowledge and structure information. "
+      "description": "You express your individual knowledge and structure information. ",
+      "circuit": "individual",
+      "subCircuit": "knowing"
     },
     "63-4": {
       "name": "Logics",
-      "description": "You can find logical answers to questions. "
+      "description": "You can find logical answers to questions. ",
+      "circuit": "collective",
+      "subCircuit": "logic"
     },
     "8-1": {
       "name": "Inspiration",
-      "description": "You can make other people stronger with your inspiration and creativity. These people have natural creativity and talents to express themselves in a unique way. "
+      "description": "You can make other people stronger with your inspiration and creativity. These people have natural creativity and talents to express themselves in a unique way. ",
+      "circuit": "individual",
+      "subCircuit": "knowing"
     },
     "16-48": {
       "name": "Talent channel",
@@ -1490,7 +1512,9 @@
     },
     "15-5": {
       "name": "Rhythm",
-      "description": "You have the gift of involving others in your life rhythm."
+      "description": "You have the gift of involving others in your life rhythm.",
+      "circuit": "collective",
+      "subCircuit": "logic"
     },
     "21-45": {
       "name": "Money",
@@ -1506,15 +1530,21 @@
     },
     "22-12": {
       "name": "Openness",
-      "description": "You influence others through the power of your expressed feelings and emotions."
+      "description": "You influence others through the power of your expressed feelings and emotions.",
+      "circuit": "individual",
+      "subCircuit": "knowing"
     },
     "20-10": {
       "name": "Awakening",
-      "description": "You have your best behavior and realize yourself in the present moment"
+      "description": "You have your best behavior and realize yourself in the present moment",
+      "circuit": "individual",
+      "subCircuit": "integration"
     },
     "36-35": {
       "name": "Fleetingness",
-      "description": "You are a jack of all trades, perfecting your craft. "
+      "description": "You are a jack of all trades, perfecting your craft. ",
+      "circuit": "collective",
+      "subCircuit": "abstract"
     },
     "17-62": {
       "name": "Acceptance",
@@ -1530,11 +1560,15 @@
     },
     "46-29": {
       "name": "Opening",
-      "description": "You look outside the family. "
+      "description": "You look outside the family. ",
+      "circuit": "collective",
+      "subCircuit": "abstract"
     },
     "64-47": {
       "name": "Abstraction",
-      "description": "You have an active mind, inspired to search for answers in your senses and experiences."
+      "description": "You have an active mind, inspired to search for answers in your senses and experiences.",
+      "circuit": "collective",
+      "subCircuit": "abstract"
     }
   },
   "centers": {
