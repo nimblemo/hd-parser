@@ -12,6 +12,7 @@ const path = require('path');
 const PROFILES_DIR = path.join(__dirname, '../data/profiles');
 const OUTPUT_FILE = path.join(__dirname, '../data/gates_database.json');
 const GATES_TO_CENTERS_FILE = path.join(__dirname, '../data/gates_to_centers.json');
+const CIRCUITS_FILE = path.join(__dirname, '../data/circuits.json');
 
 const CENTERS_MAP = {
     'Корневой Центр': 'root',
@@ -177,6 +178,15 @@ function merge() {
         try
         {
             gatesToCentersMap = JSON.parse(fs.readFileSync(GATES_TO_CENTERS_FILE, 'utf-8'));
+        } catch (e) {}
+    }
+
+    let circuitsData = {};
+    if (fs.existsSync(CIRCUITS_FILE))
+    {
+        try
+        {
+            circuitsData = JSON.parse(fs.readFileSync(CIRCUITS_FILE, 'utf-8'));
         } catch (e) {}
     }
 
@@ -442,6 +452,13 @@ function merge() {
                 gate.lines = sortedLines;
             }
 
+            if (circuitsData.gateMapping && circuitsData.gateMapping[gateId])
+            {
+                const [circuit, sub] = circuitsData.gateMapping[gateId].split('/');
+                gate.circuit = circuit;
+                gate.subCircuit = sub;
+            }
+
             if (gate.crosses)
             {
                 gate.crosses = gate.crosses.map(c => getEnId(c, CROSSES_MAP));
@@ -461,7 +478,18 @@ function merge() {
         {
             Object.keys(db.channels).forEach(id => {
                 db.channels[id].description = cleanDescription(db.channels[id].description);
+                if (circuitsData.channelMapping && circuitsData.channelMapping[id])
+                {
+                    const [circuit, sub] = circuitsData.channelMapping[id].split('/');
+                    db.channels[id].circuit = circuit;
+                    db.channels[id].subCircuit = sub;
+                }
             });
+        }
+
+        if (circuitsData.circuits)
+        {
+            db.circuits = circuitsData.circuits;
         }
 
         fs.writeFileSync(OUTPUT_FILE, JSON.stringify(db, null, 2), 'utf-8');

@@ -9,11 +9,15 @@ export interface Gate {
     sexuality?: string;
     love?: string;
     business?: string;
+    circuit?: string;
+    subCircuit?: string;
 }
 
 export interface Channel {
     name?: string;
     description: string;
+    circuit?: string;
+    subCircuit?: string;
 }
 
 export interface MetaObject {
@@ -43,4 +47,22 @@ export interface GatesDatabase {
     motivation: PHSBlock;
     vision: PHSBlock;
     environment: PHSBlock;
+    circuits?: Record<string, CircuitGroup>;
+}
+
+export interface SubCircuit {
+    name: string;
+    description: string;
+}
+
+export interface CircuitGroup {
+    name: string;
+    description: string;
+    sub_circuits: Record<string, SubCircuit>;
+}
+
+export interface CircuitMapping {
+    circuits: Record<string, CircuitGroup>;
+    gateMapping: Record<string, string>;
+    channelMapping: Record<string, string>;
 }

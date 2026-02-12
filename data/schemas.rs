@@ -19,6 +19,10 @@ pub struct Gate {
     pub love: Option<String>,
     #[serde(skip_serializing_if = "Option::is_none")]
     pub business: Option<String>,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub circuit: Option<String>,
+    #[serde(rename = "subCircuit", skip_serializing_if = "Option::is_none")]
+    pub sub_circuit: Option<String>,
 }
 
 #[derive(Debug, Serialize, Deserialize)]
@@ -26,6 +30,10 @@ pub struct Channel {
     #[serde(skip_serializing_if = "Option::is_none")]
     pub name: Option<String>,
     pub description: String,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub circuit: Option<String>,
+    #[serde(rename = "subCircuit", skip_serializing_if = "Option::is_none")]
+    pub sub_circuit: Option<String>,
 }
 
 #[derive(Debug, Serialize, Deserialize)]
@@ -60,4 +68,28 @@ pub struct GatesDatabase {
     pub motivation: PhsBlock,
     pub vision: PhsBlock,
     pub environment: PhsBlock,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub circuits: Option<HashMap<String, CircuitGroup>>,
+}
+
+#[derive(Debug, Serialize, Deserialize)]
+pub struct SubCircuit {
+    pub name: String,
+    pub description: String,
+}
+
+#[derive(Debug, Serialize, Deserialize)]
+pub struct CircuitGroup {
+    pub name: String,
+    pub description: String,
+    pub sub_circuits: HashMap<String, SubCircuit>,
+}
+
+#[derive(Debug, Serialize, Deserialize)]
+pub struct CircuitMapping {
+    pub circuits: HashMap<String, CircuitGroup>,
+    #[serde(rename = "gateMapping")]
+    pub gate_mapping: HashMap<String, String>,
+    #[serde(rename = "channelMapping")]
+    pub channel_mapping: HashMap<String, String>,
 }
