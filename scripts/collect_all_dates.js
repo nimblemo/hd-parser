@@ -11,6 +11,7 @@ const UID = '490206968';
 const BASE_URL = 'https://hd.dating';
 const GEO_PARAMS = '&lat=51.507351&lng=-0.127660&country=UK&address=London';
 const ORIGINAL_DATE = '02.02.2021';
+const circuitsData = require('../data/circuits.json');
 
 const jar = new CookieJar();
 const client = wrapper(axios.create({
@@ -75,10 +76,40 @@ function parseProfile(html) {
         const match = span.match(/^([\d]+-[\d]+)\.\s*(.+)$/);
         const $clone = $(el).clone();
         $clone.find('span').remove();
+
+        const id = match ? match[1] : span;
+        const name = match ? match[2] : span;
+        const description = cleanText($clone.text());
+
+        let circuit = null;
+        let subCircuit = null;
+
+        if (circuitsData.channelMapping)
+        {
+            let mapKey = id;
+            if (!circuitsData.channelMapping[mapKey])
+            {
+                const parts = id.split('-');
+                if (parts.length === 2)
+                {
+                    mapKey = `${parts[1]}-${parts[0]}`;
+                }
+            }
+
+            if (circuitsData.channelMapping[mapKey])
+            {
+                const [c, s] = circuitsData.channelMapping[mapKey].split('/');
+                circuit = c;
+                subCircuit = s;
+            }
+        }
+
         profile.channels.push({
-            id: match ? match[1] : span,
-            name: match ? match[2] : span,
-            description: cleanText($clone.text())
+            id,
+            name,
+            description,
+            circuit,
+            subCircuit
         });
     });
 
